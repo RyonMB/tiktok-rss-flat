@@ -39,7 +39,8 @@ with open('subscriptions.csv') as f:
 #            with TikTokAPI(navigation_retries=3, navigation_timeout=60) as api:
                 tiktokuser = api.user(csvuser)
                 i = 0
-                for video in tiktokuser.videos:
+                
+                for video in tiktokuser.videos.reverse():
                     if i >= 10:
                         break
                     i = i + 1
