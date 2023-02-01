@@ -41,7 +41,7 @@ with open('subscriptions.csv') as f:
                 i = 0
                 tiktokuser.videos.reverse()
                 for video in tiktokuser.videos:
-                    if i >= 15:
+                    if i >= 10:
                         break
                     i = i + 1
                     # print(video.create_time, video.desc)
