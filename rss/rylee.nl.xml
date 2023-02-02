@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-02-01T18:39:43+00:00</updated>
+  <updated>2023-02-02T16:22:53+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7186684427303537926</id>
-    <title>Wil je een merk bouwen, die herkenbaar is en zorgt dat consumenten eerder voor jouw product kiezen? Dan is branding KEY! 🔑 #branding #ondernemen #rylee #smallbusiness #product #bol #fyp </title>
-    <updated>2023-01-09T16:06:07+00:00</updated>
-    <content>Wil je een merk bouwen, die herkenbaar is en zorgt dat consumenten eerder voor jouw product kiezen? Dan is branding KEY! 🔑 #branding #ondernemen #rylee #smallbusiness #product #bol #fyp </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7186684427303537926" rel="alternate"/>
-    <published>2023-01-09T16:06:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7187479577990647046</id>
     <title>Hierbij een overzicht van verschillende gemiddelde salarissen. Hoeveel dacht jij dat een recruiter verdient? #baan #salaris #rylee #bol #solliciteren </title>
@@ -91,5 +83,13 @@
     <content>Ook op zoek naar een nieuw verkoopplatform? Wat dacht je van Amazon? 🙃 #ondernemen #rylee #bol #amazon </content>
     <link href="https://tiktok.com/@rylee.nl/video/7195258982905318662" rel="alternate"/>
     <published>2023-02-01T18:39:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7195594803365580037</id>
+    <title>Herkenbaar? 😂 Laat ons weten welk item jij niet kan missen 👇  #rylee #bol #ondernemen #ondernemer #items  </title>
+    <updated>2023-02-02T16:22:53+00:00</updated>
+    <content>Herkenbaar? 😂 Laat ons weten welk item jij niet kan missen 👇  #rylee #bol #ondernemen #ondernemer #items  </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7195594803365580037" rel="alternate"/>
+    <published>2023-02-02T16:22:53+00:00</published>
   </entry>
 </feed>
