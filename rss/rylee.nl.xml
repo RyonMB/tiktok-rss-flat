@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-02-03T19:30:08+00:00</updated>
+  <updated>2023-02-04T22:36:00+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7188189938419141893</id>
-    <title>Ga jij voor optie A of B? Laat het weten in de comments! #design #bol #ondernemen #fyp #smallbusiness #rylee </title>
-    <updated>2023-01-13T17:28:14+00:00</updated>
-    <content>Ga jij voor optie A of B? Laat het weten in de comments! #design #bol #ondernemen #fyp #smallbusiness #rylee </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7188189938419141893" rel="alternate"/>
-    <published>2023-01-13T17:28:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7189291406307937542</id>
     <title>Zelf een webshop starten? Waarom niet via Bol.com! Bol.com biedt namelijk de kans omzelf aan de slag te gaan! 🚀 #bol #ondernemen #smallbusiness #rylee #bol #verkopen </title>
@@ -91,5 +83,13 @@
     <content>De kracht van niches 👏 Aan welke producten moet jij gelijk denken?  #rylee #ondernemen #bol #verkopen #niche </content>
     <link href="https://tiktok.com/@rylee.nl/video/7196014139574144261" rel="alternate"/>
     <published>2023-02-03T19:30:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7196433119879138566</id>
+    <title>Had jij dit verwacht? 👀 Laat ons weten welke baan je het meeste aanspreekt 👇 #rylee #ondernemen #salaris #bol </title>
+    <updated>2023-02-04T22:36:00+00:00</updated>
+    <content>Had jij dit verwacht? 👀 Laat ons weten welke baan je het meeste aanspreekt 👇 #rylee #ondernemen #salaris #bol </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7196433119879138566" rel="alternate"/>
+    <published>2023-02-04T22:36:00+00:00</published>
   </entry>
 </feed>
