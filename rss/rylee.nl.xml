@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-02-04T22:36:00+00:00</updated>
+  <updated>2023-02-05T17:47:08+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7189291406307937542</id>
-    <title>Zelf een webshop starten? Waarom niet via Bol.com! Bol.com biedt namelijk de kans omzelf aan de slag te gaan! 🚀 #bol #ondernemen #smallbusiness #rylee #bol #verkopen </title>
-    <updated>2023-01-16T16:42:30+00:00</updated>
-    <content>Zelf een webshop starten? Waarom niet via Bol.com! Bol.com biedt namelijk de kans omzelf aan de slag te gaan! 🚀 #bol #ondernemen #smallbusiness #rylee #bol #verkopen </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7189291406307937542" rel="alternate"/>
-    <published>2023-01-16T16:42:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7190073674790210822</id>
     <title>Dit is het verhaal hoe Rylee (bol.com product software) is ontstaan. Heb jij nog vragen aan Ryon? #ondernemen #smallbusiness #bol #rylee #fyp #verhaal </title>
@@ -91,5 +83,13 @@
     <content>Had jij dit verwacht? 👀 Laat ons weten welke baan je het meeste aanspreekt 👇 #rylee #ondernemen #salaris #bol </content>
     <link href="https://tiktok.com/@rylee.nl/video/7196433119879138566" rel="alternate"/>
     <published>2023-02-04T22:36:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7196729768140672262</id>
+    <title>Duurzaamheid is een hot topic 🔥 Valt jouw product onder deze categorie? Geef dit dan zeker aan in bol.com ♻️  #rylee #bol #ondernemer #duurzaam #duurzaamheid </title>
+    <updated>2023-02-05T17:47:08+00:00</updated>
+    <content>Duurzaamheid is een hot topic 🔥 Valt jouw product onder deze categorie? Geef dit dan zeker aan in bol.com ♻️  #rylee #bol #ondernemer #duurzaam #duurzaamheid </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7196729768140672262" rel="alternate"/>
+    <published>2023-02-05T17:47:08+00:00</published>
   </entry>
 </feed>
