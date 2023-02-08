@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-02-07T16:19:17+00:00</updated>
+  <updated>2023-02-08T17:04:49+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7191964714837036293</id>
-    <title>Kende jij al verschil tussen private label vs white label 🏷? #termen #rylee #bol #ondernemen #bedrijf #privatelabel </title>
-    <updated>2023-01-23T21:36:20+00:00</updated>
-    <content>Kende jij al verschil tussen private label vs white label 🏷? #termen #rylee #bol #ondernemen #bedrijf #privatelabel </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7191964714837036293" rel="alternate"/>
-    <published>2023-01-23T21:36:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7192618324939787525</id>
     <title>Dit zijn DE 3 tips om een fabrikant te vinden! 🏭 #ondernemen #smallbusiness #fabrikant #fyp #rylee #alibaba  #supplier  </title>
@@ -91,5 +83,13 @@
     <content>Q&amp;A tijd ⏰ Welke vraag zou jij ons graag willen stellen? 🤓 #ondernemer #rylee #bol #ecommerce </content>
     <link href="https://tiktok.com/@rylee.nl/video/7197449298810899718" rel="alternate"/>
     <published>2023-02-07T16:19:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7197832122810289414</id>
+    <title>Ook een handje nodig om erachter te komen welk product jij kan verkopen? ✋ Rylee is dé tool hiervoor ⚒️ #rylee #bol #ondernemer #ondernemen </title>
+    <updated>2023-02-08T17:04:49+00:00</updated>
+    <content>Ook een handje nodig om erachter te komen welk product jij kan verkopen? ✋ Rylee is dé tool hiervoor ⚒️ #rylee #bol #ondernemer #ondernemen </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7197832122810289414" rel="alternate"/>
+    <published>2023-02-08T17:04:49+00:00</published>
   </entry>
 </feed>
