@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-02-09T16:33:53+00:00</updated>
+  <updated>2023-02-10T19:55:06+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7193332710344068357</id>
-    <title>Via welk platform will jij gaan verkopen?#ondernemen #smallbusiness #bol #etsy #shopify #verkopen #rylee </title>
-    <updated>2023-01-27T14:04:51+00:00</updated>
-    <content>Via welk platform will jij gaan verkopen?#ondernemen #smallbusiness #bol #etsy #shopify #verkopen #rylee </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7193332710344068357" rel="alternate"/>
-    <published>2023-01-27T14:04:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7195258982905318662</id>
     <title>Ook op zoek naar een nieuw verkoopplatform? Wat dacht je van Amazon? 🙃 #ondernemen #rylee #bol #amazon </title>
@@ -91,5 +83,13 @@
     <content>Nog op zoek naar verzendmateriaal? 📦 Met deze 3 plekken is het zo in huis 🏠  #rylee #ondernemer #bol #verzendmateriaal </content>
     <link href="https://tiktok.com/@rylee.nl/video/7198195240170179845" rel="alternate"/>
     <published>2023-02-09T16:33:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7198618175674518789</id>
+    <title>Zeker niet onbelangrijk: salaris! Tijd voor een baan switch? 😉 #rylee #ondernemen #bol #salaris </title>
+    <updated>2023-02-10T19:55:06+00:00</updated>
+    <content>Zeker niet onbelangrijk: salaris! Tijd voor een baan switch? 😉 #rylee #ondernemen #bol #salaris </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7198618175674518789" rel="alternate"/>
+    <published>2023-02-10T19:55:06+00:00</published>
   </entry>
 </feed>
