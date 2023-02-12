@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-02-11T10:19:06+00:00</updated>
+  <updated>2023-02-12T19:06:19+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7195594803365580037</id>
-    <title>Herkenbaar? 😂 Laat ons weten welk item jij niet kan missen 👇  #rylee #bol #ondernemen #ondernemer #items  </title>
-    <updated>2023-02-02T16:22:53+00:00</updated>
-    <content>Herkenbaar? 😂 Laat ons weten welk item jij niet kan missen 👇  #rylee #bol #ondernemen #ondernemer #items  </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7195594803365580037" rel="alternate"/>
-    <published>2023-02-02T16:22:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7196014139574144261</id>
     <title>De kracht van niches 👏 Aan welke producten moet jij gelijk denken?  #rylee #ondernemen #bol #verkopen #niche </title>
@@ -91,5 +83,13 @@
     <content>Hoe je het beste een product kan omschrijven? Nou, zo dus! 😌 #rylee #ondernemen #bol #verkopen </content>
     <link href="https://tiktok.com/@rylee.nl/video/7198840806759845125" rel="alternate"/>
     <published>2023-02-11T10:19:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7199347771478953222</id>
+    <title>Hoe bepaal je de productprijs? 🤔 Deze tips helpen je verder ✔️ #rylee #ondernemen #bol #productprijs </title>
+    <updated>2023-02-12T19:06:19+00:00</updated>
+    <content>Hoe bepaal je de productprijs? 🤔 Deze tips helpen je verder ✔️ #rylee #ondernemen #bol #productprijs </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7199347771478953222" rel="alternate"/>
+    <published>2023-02-12T19:06:19+00:00</published>
   </entry>
 </feed>
