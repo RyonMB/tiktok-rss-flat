@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-02-14T14:58:28+00:00</updated>
+  <updated>2023-02-15T14:49:54+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7196729768140672262</id>
-    <title>Duurzaamheid is een hot topic 🔥 Valt jouw product onder deze categorie? Geef dit dan zeker aan in bol.com ♻️  #rylee #bol #ondernemer #duurzaam #duurzaamheid </title>
-    <updated>2023-02-05T17:47:08+00:00</updated>
-    <content>Duurzaamheid is een hot topic 🔥 Valt jouw product onder deze categorie? Geef dit dan zeker aan in bol.com ♻️  #rylee #bol #ondernemer #duurzaam #duurzaamheid </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7196729768140672262" rel="alternate"/>
-    <published>2023-02-05T17:47:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7197097955969617157</id>
     <title>3 dingen waar je rekening mee moet houden als ondernemer 😉💡 #rylee #ondernemen #bol #ondernemer </title>
@@ -91,5 +83,13 @@
     <content>Dit is dus niet waar! ❌  #rylee #ondernemen #facts #cap #fabels </content>
     <link href="https://tiktok.com/@rylee.nl/video/7200026061286001926" rel="alternate"/>
     <published>2023-02-14T14:58:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7200394947156036870</id>
+    <title>Jonge ‘goeroes’ in e-commerce wel eens tegengekomen? Trap er niet altijd in! 🤨 #rylee #ondernemen #ondernemerstips #dontbelieveeverythingyousee </title>
+    <updated>2023-02-15T14:49:54+00:00</updated>
+    <content>Jonge ‘goeroes’ in e-commerce wel eens tegengekomen? Trap er niet altijd in! 🤨 #rylee #ondernemen #ondernemerstips #dontbelieveeverythingyousee </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7200394947156036870" rel="alternate"/>
+    <published>2023-02-15T14:49:54+00:00</published>
   </entry>
 </feed>
