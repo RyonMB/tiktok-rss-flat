@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-02-16T14:37:25+00:00</updated>
+  <updated>2023-02-17T13:35:02+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7197449298810899718</id>
-    <title>Q&amp;A tijd ⏰ Welke vraag zou jij ons graag willen stellen? 🤓 #ondernemer #rylee #bol #ecommerce </title>
-    <updated>2023-02-07T16:19:17+00:00</updated>
-    <content>Q&amp;A tijd ⏰ Welke vraag zou jij ons graag willen stellen? 🤓 #ondernemer #rylee #bol #ecommerce </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7197449298810899718" rel="alternate"/>
-    <published>2023-02-07T16:19:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7197832122810289414</id>
     <title>Ook een handje nodig om erachter te komen welk product jij kan verkopen? ✋ Rylee is dé tool hiervoor ⚒️ #rylee #bol #ondernemer #ondernemen </title>
@@ -91,5 +83,13 @@
     <content>Wat te doen bij een hoge MOQ? 📦 Luister dan goed!  #rylee #ondernemen #bol #moq #onderhandelen </content>
     <link href="https://tiktok.com/@rylee.nl/video/7200762813227306245" rel="alternate"/>
     <published>2023-02-16T14:37:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7201117824625003782</id>
+    <title>Wil je ook minder retouren op je producten? 📬 Dit is hoe! 😏 #rylee #retouren #ondernemen #ondernemerstips #terugsturen </title>
+    <updated>2023-02-17T13:35:02+00:00</updated>
+    <content>Wil je ook minder retouren op je producten? 📬 Dit is hoe! 😏 #rylee #retouren #ondernemen #ondernemerstips #terugsturen </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7201117824625003782" rel="alternate"/>
+    <published>2023-02-17T13:35:02+00:00</published>
   </entry>
 </feed>
