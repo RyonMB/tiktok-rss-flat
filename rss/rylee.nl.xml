@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-02-18T14:20:06+00:00</updated>
+  <updated>2023-02-19T20:42:12+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7198195240170179845</id>
-    <title>Nog op zoek naar verzendmateriaal? 📦 Met deze 3 plekken is het zo in huis 🏠  #rylee #ondernemer #bol #verzendmateriaal </title>
-    <updated>2023-02-09T16:33:53+00:00</updated>
-    <content>Nog op zoek naar verzendmateriaal? 📦 Met deze 3 plekken is het zo in huis 🏠  #rylee #ondernemer #bol #verzendmateriaal </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7198195240170179845" rel="alternate"/>
-    <published>2023-02-09T16:33:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7198618175674518789</id>
     <title>Zeker niet onbelangrijk: salaris! Tijd voor een baan switch? 😉 #rylee #ondernemen #bol #salaris </title>
@@ -91,5 +83,13 @@
     <content>Hoe je het beste een product kan omschrijven? Nou, zo dus! 😌 #rylee #ondernemen #bol #verkopen </content>
     <link href="https://tiktok.com/@rylee.nl/video/7201500525374754054" rel="alternate"/>
     <published>2023-02-18T14:20:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7201970072775085317</id>
+    <title>Benieuwd hoe jij zo efficiënt mogeljjk je onderneming kan runnen? ✨ Wij geven drie tips! 🤓 #rylee #ondernemen #efficientwerken #ondernemerstips #team </title>
+    <updated>2023-02-19T20:42:12+00:00</updated>
+    <content>Benieuwd hoe jij zo efficiënt mogeljjk je onderneming kan runnen? ✨ Wij geven drie tips! 🤓 #rylee #ondernemen #efficientwerken #ondernemerstips #team </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7201970072775085317" rel="alternate"/>
+    <published>2023-02-19T20:42:12+00:00</published>
   </entry>
 </feed>
