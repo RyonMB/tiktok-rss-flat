@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-03-19T11:04:36+00:00</updated>
+  <updated>2023-03-20T15:53:00+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7208920256474139910</id>
-    <title>Wat denk jij dat het antwoord is? 🫵🏼 #ondernemer #rylee #bol #omzet #geld #raadhetantwoord </title>
-    <updated>2023-03-10T14:12:27+00:00</updated>
-    <content>Wat denk jij dat het antwoord is? 🫵🏼 #ondernemer #rylee #bol #omzet #geld #raadhetantwoord </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7208920256474139910" rel="alternate"/>
-    <published>2023-03-10T14:12:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7209357361360686341</id>
     <title>Twijfel je om te beginnen met e-commerce? Kijk dan deze video. 👀 #ondernemer #rylee #ecommerce #voordelen #winst </title>
@@ -91,5 +83,13 @@
     <content>Hier zijn tips om je eerste klant binnen te halen! 🚨#ondernemer #rylee #klant #affiliate #percentage </content>
     <link href="https://tiktok.com/@rylee.nl/video/7212211606283930885" rel="alternate"/>
     <published>2023-03-19T11:04:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7212657017515707654</id>
+    <title>Probeer vandaag nog de gratis proefperiode op Rylee.nl 🫵 #ondernemer #rylee #bol #software #betrouwbaar </title>
+    <updated>2023-03-20T15:53:00+00:00</updated>
+    <content>Probeer vandaag nog de gratis proefperiode op Rylee.nl 🫵 #ondernemer #rylee #bol #software #betrouwbaar </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7212657017515707654" rel="alternate"/>
+    <published>2023-03-20T15:53:00+00:00</published>
   </entry>
 </feed>
