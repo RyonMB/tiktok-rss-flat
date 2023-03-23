@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-03-22T15:44:10+00:00</updated>
+  <updated>2023-03-23T15:32:16+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7210062320926526726</id>
-    <title>Start nu je gratis proefperiode op Rylee.nl 😏 #ondernemer #rylee #bol #producten #data </title>
-    <updated>2023-03-13T16:04:16+00:00</updated>
-    <content>Start nu je gratis proefperiode op Rylee.nl 😏 #ondernemer #rylee #bol #producten #data </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7210062320926526726" rel="alternate"/>
-    <published>2023-03-13T16:04:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7210438652608990469</id>
     <title>Laat ons weten waar je nog meer rekening mee moet houden. 🗣 #ondernemer #rylee #invoerrechten #belasting #importeren </title>
@@ -91,5 +83,13 @@
     <content>Hierbij een overzicht van verschillende gemiddelde salarissen (bruto). 💸 Hoeveel dacht jij dat een politieagent verdient? 👮‍♀️#salaris #rylee #solliciteren #baan #ondernemer </content>
     <link href="https://tiktok.com/@rylee.nl/video/7213396909426314501" rel="alternate"/>
     <published>2023-03-22T15:44:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7213764932997762310</id>
+    <title>Welke andere verdienmodellen ken jij? 👨‍💻 #verdienmodellen #rylee #zakendoen #zzpers #abonement </title>
+    <updated>2023-03-23T15:32:16+00:00</updated>
+    <content>Welke andere verdienmodellen ken jij? 👨‍💻 #verdienmodellen #rylee #zakendoen #zzpers #abonement </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7213764932997762310" rel="alternate"/>
+    <published>2023-03-23T15:32:16+00:00</published>
   </entry>
 </feed>
