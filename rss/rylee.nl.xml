@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-03-23T15:32:16+00:00</updated>
+  <updated>2023-03-24T16:48:19+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7210438652608990469</id>
-    <title>Laat ons weten waar je nog meer rekening mee moet houden. 🗣 #ondernemer #rylee #invoerrechten #belasting #importeren </title>
-    <updated>2023-03-14T16:24:36+00:00</updated>
-    <content>Laat ons weten waar je nog meer rekening mee moet houden. 🗣 #ondernemer #rylee #invoerrechten #belasting #importeren </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7210438652608990469" rel="alternate"/>
-    <published>2023-03-14T16:24:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7210819631840283909</id>
     <title>Dit is hoe je het beste kan communiceren met een internationale fabrikant. 😏 #rylee #fabrikant #leverancier #producten #inkoop  </title>
@@ -91,5 +83,13 @@
     <content>Welke andere verdienmodellen ken jij? 👨‍💻 #verdienmodellen #rylee #zakendoen #zzpers #abonement </content>
     <link href="https://tiktok.com/@rylee.nl/video/7213764932997762310" rel="alternate"/>
     <published>2023-03-23T15:32:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7214155614287695109</id>
+    <title>Tips om geld te besparen voor jouw eigen onderneming. 📝 #rylee #tips #geld #sparentips #onderneming #ondernemers </title>
+    <updated>2023-03-24T16:48:19+00:00</updated>
+    <content>Tips om geld te besparen voor jouw eigen onderneming. 📝 #rylee #tips #geld #sparentips #onderneming #ondernemers </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7214155614287695109" rel="alternate"/>
+    <published>2023-03-24T16:48:19+00:00</published>
   </entry>
 </feed>
