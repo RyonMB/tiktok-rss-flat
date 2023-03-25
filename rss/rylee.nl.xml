@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-03-24T16:48:19+00:00</updated>
+  <updated>2023-03-25T19:02:44+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7210819631840283909</id>
-    <title>Dit is hoe je het beste kan communiceren met een internationale fabrikant. 😏 #rylee #fabrikant #leverancier #producten #inkoop  </title>
-    <updated>2023-03-15T17:03:00+00:00</updated>
-    <content>Dit is hoe je het beste kan communiceren met een internationale fabrikant. 😏 #rylee #fabrikant #leverancier #producten #inkoop  </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7210819631840283909" rel="alternate"/>
-    <published>2023-03-15T17:03:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7211178313161788677</id>
     <title>Wil jij harder groeien op bol.com? Bekijk dan deze video. 😏 #ondernemer #rylee #bol #proefperiode #data   </title>
@@ -91,5 +83,13 @@
     <content>Tips om geld te besparen voor jouw eigen onderneming. 📝 #rylee #tips #geld #sparentips #onderneming #ondernemers </content>
     <link href="https://tiktok.com/@rylee.nl/video/7214155614287695109" rel="alternate"/>
     <published>2023-03-24T16:48:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7214561332060818694</id>
+    <title>Met een product tracker kun je dus onderzoek doen naar toekomstige winstgevende producten. 😉 #rylee #productresearch #producttracking #verkopenopbol #bolcom #ecommercenederland #ondernemerstips #ondernemenoptiktok </title>
+    <updated>2023-03-25T19:02:44+00:00</updated>
+    <content>Met een product tracker kun je dus onderzoek doen naar toekomstige winstgevende producten. 😉 #rylee #productresearch #producttracking #verkopenopbol #bolcom #ecommercenederland #ondernemerstips #ondernemenoptiktok </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7214561332060818694" rel="alternate"/>
+    <published>2023-03-25T19:02:44+00:00</published>
   </entry>
 </feed>
