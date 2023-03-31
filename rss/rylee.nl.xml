@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-03-30T14:44:43+00:00</updated>
+  <updated>2023-03-31T14:59:06+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7213031016133348614</id>
-    <title>Meer inzicht krijgen in de markt van bol.com? Dit is hoe! 🤓 #ondernemer #rylee #bol #producten #data </title>
-    <updated>2023-03-21T16:04:18+00:00</updated>
-    <content>Meer inzicht krijgen in de markt van bol.com? Dit is hoe! 🤓 #ondernemer #rylee #bol #producten #data </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7213031016133348614" rel="alternate"/>
-    <published>2023-03-21T16:04:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7213396909426314501</id>
     <title>Hierbij een overzicht van verschillende gemiddelde salarissen (bruto). 💸 Hoeveel dacht jij dat een politieagent verdient? 👮‍♀️#salaris #rylee #solliciteren #baan #ondernemer </title>
@@ -91,5 +83,13 @@
     <content>Wil je snel en gemakkelijk professionele productfoto’s maken? Met deze AI-tool kun je in slechts enkele minuten verbluffende beelden maken. Geen dure apparatuur of professionele fotografie-ervaring nodig! 📸💡#rylee #productfotografie #aitool #gemakkelijk #professioneel #fotografiehacks </content>
     <link href="https://tiktok.com/@rylee.nl/video/7216350275622210821" rel="alternate"/>
     <published>2023-03-30T14:44:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7216725070272531718</id>
+    <title>Of je nu rijk of arm geboren bent, een ding is zeker: het is allemaal hard werken, toewijding en innovatie. 💪🏼👨🏻‍💼  ⚠️ Disclaimer: met ‘arm’ bedoelen we soms ook ‘redelijk welvarend’. #rylee #doorzettingsvermogen #privilege #verantwoordelijkheid #inspirat</title>
+    <updated>2023-03-31T14:59:06+00:00</updated>
+    <content>Of je nu rijk of arm geboren bent, een ding is zeker: het is allemaal hard werken, toewijding en innovatie. 💪🏼👨🏻‍💼  ⚠️ Disclaimer: met ‘arm’ bedoelen we soms ook ‘redelijk welvarend’. #rylee #doorzettingsvermogen #privilege #verantwoordelijkheid #inspiratie #ondernemers </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7216725070272531718" rel="alternate"/>
+    <published>2023-03-31T14:59:06+00:00</published>
   </entry>
 </feed>
