@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-03-31T14:59:06+00:00</updated>
+  <updated>2023-04-01T20:02:17+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7213396909426314501</id>
-    <title>Hierbij een overzicht van verschillende gemiddelde salarissen (bruto). 💸 Hoeveel dacht jij dat een politieagent verdient? 👮‍♀️#salaris #rylee #solliciteren #baan #ondernemer </title>
-    <updated>2023-03-22T15:44:10+00:00</updated>
-    <content>Hierbij een overzicht van verschillende gemiddelde salarissen (bruto). 💸 Hoeveel dacht jij dat een politieagent verdient? 👮‍♀️#salaris #rylee #solliciteren #baan #ondernemer </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7213396909426314501" rel="alternate"/>
-    <published>2023-03-22T15:44:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7213764932997762310</id>
     <title>Welke andere verdienmodellen ken jij? 👨‍💻 #verdienmodellen #rylee #zakendoen #zzpers #abonement </title>
@@ -91,5 +83,13 @@
     <content>Of je nu rijk of arm geboren bent, een ding is zeker: het is allemaal hard werken, toewijding en innovatie. 💪🏼👨🏻‍💼  ⚠️ Disclaimer: met ‘arm’ bedoelen we soms ook ‘redelijk welvarend’. #rylee #doorzettingsvermogen #privilege #verantwoordelijkheid #inspiratie #ondernemers </content>
     <link href="https://tiktok.com/@rylee.nl/video/7216725070272531718" rel="alternate"/>
     <published>2023-03-31T14:59:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7217174279253773573</id>
+    <title>Leer in enkele minuten hoe je jouw bedrijf kunt inschrijven bij de Kamer van Koophandel - bekijk onze stap-voor-stap uitleg en start vandaag nog jouw onderneming! 🫵🏼</title>
+    <updated>2023-04-01T20:02:17+00:00</updated>
+    <content>Leer in enkele minuten hoe je jouw bedrijf kunt inschrijven bij de Kamer van Koophandel - bekijk onze stap-voor-stap uitleg en start vandaag nog jouw onderneming! 🫵🏼</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7217174279253773573" rel="alternate"/>
+    <published>2023-04-01T20:02:17+00:00</published>
   </entry>
 </feed>
