@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-04-05T14:56:52+00:00</updated>
+  <updated>2023-04-06T12:19:28+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7215259830569798917</id>
-    <title>Geld hebben bij de start is handig, maar het zijn de vaardigheden en het doorzettingsvermogen die het echte verschil maken. 😉  ⚠️Disclaimer: met ‘arm’ bedoelen we soms ook ‘redelijk welvarend’. #rylee #motivatie #ondernemerschap #succesvolzijn #inspiratie</title>
-    <updated>2023-03-27T16:13:13+00:00</updated>
-    <content>Geld hebben bij de start is handig, maar het zijn de vaardigheden en het doorzettingsvermogen die het echte verschil maken. 😉  ⚠️Disclaimer: met ‘arm’ bedoelen we soms ook ‘redelijk welvarend’. #rylee #motivatie #ondernemerschap #succesvolzijn #inspiratie </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7215259830569798917" rel="alternate"/>
-    <published>2023-03-27T16:13:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7215602360280763653</id>
     <title>Dit is hoe je Rylee 14 dagen gratis kunt proberen. 😊 #rylee #freetrials #proefperiode #ondernemen </title>
@@ -91,5 +83,13 @@
     <content>Van rijke erfgenamen tot self-made miljonairs: ontdek welke bekende ondernemers het geluk hebben gehad om rijk geboren te worden en welke het zelf hebben bereikt. 📈🤴#Succesverhalen #Inspiratie #Succesvolondernemen #Rijkgeboren #Armoede #Kansen     </content>
     <link href="https://tiktok.com/@rylee.nl/video/7218579923806506245" rel="alternate"/>
     <published>2023-04-05T14:56:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7218910433003064581</id>
+    <title>Replying to @chrisvocht  Verkopen op bol.com kan een geweldige manier zijn om je producten te verkopen, maar het brengt ook enkele risico’s met zich mee. In deze video delen we enkele belangrijke punten waar je rekening mee moet houden om succesvol te zij</title>
+    <updated>2023-04-06T12:19:28+00:00</updated>
+    <content>Replying to @chrisvocht  Verkopen op bol.com kan een geweldige manier zijn om je producten te verkopen, maar het brengt ook enkele risico’s met zich mee. In deze video delen we enkele belangrijke punten waar je rekening mee moet houden om succesvol te zijn op bol.com 💪🏼 #verkopenopbol #ecommerce #risicobeheer #ondernemerschap #succesvolverkopen #rylee </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7218910433003064581" rel="alternate"/>
+    <published>2023-04-06T12:19:28+00:00</published>
   </entry>
 </feed>
