@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-04-06T12:19:28+00:00</updated>
+  <updated>2023-04-07T13:22:49+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7215602360280763653</id>
-    <title>Dit is hoe je Rylee 14 dagen gratis kunt proberen. 😊 #rylee #freetrials #proefperiode #ondernemen </title>
-    <updated>2023-03-28T14:22:24+00:00</updated>
-    <content>Dit is hoe je Rylee 14 dagen gratis kunt proberen. 😊 #rylee #freetrials #proefperiode #ondernemen </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7215602360280763653" rel="alternate"/>
-    <published>2023-03-28T14:22:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7215981011010735365</id>
     <title>Zijn ondernemers die rijk zijn geboren beter af dan ondernemers die arm zijn geboren? Wat vind jij? 🤔 ⚠️ Disclaimer: met ‘arm’ bedoelen we soms ook ‘redelijk welvarend’. #rylee #rijkdom #succes #motivatie #succesverhaal </title>
@@ -91,5 +83,13 @@
     <content>Replying to @chrisvocht  Verkopen op bol.com kan een geweldige manier zijn om je producten te verkopen, maar het brengt ook enkele risico’s met zich mee. In deze video delen we enkele belangrijke punten waar je rekening mee moet houden om succesvol te zijn op bol.com 💪🏼 #verkopenopbol #ecommerce #risicobeheer #ondernemerschap #succesvolverkopen #rylee </content>
     <link href="https://tiktok.com/@rylee.nl/video/7218910433003064581" rel="alternate"/>
     <published>2023-04-06T12:19:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7219297856220318981</id>
+    <title>Weet je niet hoe je de zoektrends op Bol.com kunt analyseren? In deze video laat ik je zien hoe je dat eenvoudig kunt doen met Rylee! 👀🔎#Bolcomverkoop #Zoektrendsanalyse #Ryleesoftware #Onlineverkopen #Ecommercetrends #Succesvolondernemen #Zoektermenoptim</title>
+    <updated>2023-04-07T13:22:49+00:00</updated>
+    <content>Weet je niet hoe je de zoektrends op Bol.com kunt analyseren? In deze video laat ik je zien hoe je dat eenvoudig kunt doen met Rylee! 👀🔎#Bolcomverkoop #Zoektrendsanalyse #Ryleesoftware #Onlineverkopen #Ecommercetrends #Succesvolondernemen #Zoektermenoptimalisatie </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7219297856220318981" rel="alternate"/>
+    <published>2023-04-07T13:22:49+00:00</published>
   </entry>
 </feed>
