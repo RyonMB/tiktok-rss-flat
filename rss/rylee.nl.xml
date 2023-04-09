@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-04-08T11:18:29+00:00</updated>
+  <updated>2023-04-09T09:29:29+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7216350275622210821</id>
-    <title>Wil je snel en gemakkelijk professionele productfoto’s maken? Met deze AI-tool kun je in slechts enkele minuten verbluffende beelden maken. Geen dure apparatuur of professionele fotografie-ervaring nodig! 📸💡#rylee #productfotografie #aitool #gemakkelijk #</title>
-    <updated>2023-03-30T14:44:43+00:00</updated>
-    <content>Wil je snel en gemakkelijk professionele productfoto’s maken? Met deze AI-tool kun je in slechts enkele minuten verbluffende beelden maken. Geen dure apparatuur of professionele fotografie-ervaring nodig! 📸💡#rylee #productfotografie #aitool #gemakkelijk #professioneel #fotografiehacks </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7216350275622210821" rel="alternate"/>
-    <published>2023-03-30T14:44:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7216725070272531718</id>
     <title>Of je nu rijk of arm geboren bent, een ding is zeker: het is allemaal hard werken, toewijding en innovatie. 💪🏼👨🏻‍💼  ⚠️ Disclaimer: met ‘arm’ bedoelen we soms ook ‘redelijk welvarend’. #rylee #doorzettingsvermogen #privilege #verantwoordelijkheid #inspirat</title>
@@ -86,10 +78,18 @@
   </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7219636896337595654</id>
-    <title>Hoeveel hebben de grootste bedrijven in Nederland het afgelopen jaar (2022) verdiend? 🙀💰 Bron: emerce.nl </title>
+    <title>Hoeveel hebben de grootste bedrijven in Nederland het afgelopen jaar (2022) verdiend? 🙀💰 Bron: emerce.nl #rylee #Jaaromzet #Grotebedrijven #Nederlandsebedrijven #Financiëlenieuws #Topverdieners #Zakelijk #Succesvolondernemen</title>
     <updated>2023-04-08T11:18:29+00:00</updated>
-    <content>Hoeveel hebben de grootste bedrijven in Nederland het afgelopen jaar (2022) verdiend? 🙀💰 Bron: emerce.nl </content>
+    <content>Hoeveel hebben de grootste bedrijven in Nederland het afgelopen jaar (2022) verdiend? 🙀💰 Bron: emerce.nl #rylee #Jaaromzet #Grotebedrijven #Nederlandsebedrijven #Financiëlenieuws #Topverdieners #Zakelijk #Succesvolondernemen</content>
     <link href="https://tiktok.com/@rylee.nl/video/7219636896337595654" rel="alternate"/>
     <published>2023-04-08T11:18:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7219979884314004741</id>
+    <title>Wil jij je online verkopen een boost geven? 📈 Ontdek hoe de vele handige functies van Rylee je hierbij kunnen helpen! #rylee  #Bolcomverkoop #Ecommercetools #Onlineverkopen #Efficiëntwerken #Succesvolondernemen #Marketingstrategie</title>
+    <updated>2023-04-09T09:29:29+00:00</updated>
+    <content>Wil jij je online verkopen een boost geven? 📈 Ontdek hoe de vele handige functies van Rylee je hierbij kunnen helpen! #rylee  #Bolcomverkoop #Ecommercetools #Onlineverkopen #Efficiëntwerken #Succesvolondernemen #Marketingstrategie</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7219979884314004741" rel="alternate"/>
+    <published>2023-04-09T09:29:29+00:00</published>
   </entry>
 </feed>
