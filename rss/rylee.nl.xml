@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-04-13T13:48:41+00:00</updated>
+  <updated>2023-04-12T07:25:09+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7217844313936465157</id>
+    <title>Hoeveel invloed heeft je afkomst op je financiële succes? 🍀 #rijkeerfgenamen  #selfmadebillionairs #ondernemerschap #afkomst #succesverhalen #inspiratie #succesvolondernemen #rijkgeboren #armoede #kansen </title>
+    <updated>2023-04-03T15:22:21+00:00</updated>
+    <content>Hoeveel invloed heeft je afkomst op je financiële succes? 🍀 #rijkeerfgenamen  #selfmadebillionairs #ondernemerschap #afkomst #succesverhalen #inspiratie #succesvolondernemen #rijkgeboren #armoede #kansen </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7217844313936465157" rel="alternate"/>
+    <published>2023-04-03T15:22:21+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7218217010155588869</id>
     <title>Ontdek waarom Rylee de nummer 1 software tool is voor ondernemers en hoe het jouw bedrijf kan helpen groeien! 🚀💻 #rylee #softwaretool #ondernemen #bedrijfsgroei #efficiëntie #productiviteit </title>
@@ -83,13 +91,5 @@
     <content>Reviews zijn cruciaal voor je online business, maar hoe krijg je klanten zo ver om er één achter te laten? Check this out! 🙌 #rylee #klantenfeedback #reviews #onlinebusiness #ecommerce #klanttevredenheid #klantenbinding #marketingtips </content>
     <link href="https://tiktok.com/@rylee.nl/video/7221061097648950534" rel="alternate"/>
     <published>2023-04-12T07:25:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7221531023455112453</id>
-    <title>Ontdek de top 3 producten waar je vandaag nog mee kunt starten en succesvol kunt verkopen! Bekijk onze video voor tips en tricks.💡📈 #rylee #bol #ondernemen #ondernemer #boeken </title>
-    <updated>2023-04-13T13:48:41+00:00</updated>
-    <content>Ontdek de top 3 producten waar je vandaag nog mee kunt starten en succesvol kunt verkopen! Bekijk onze video voor tips en tricks.💡📈 #rylee #bol #ondernemen #ondernemer #boeken </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7221531023455112453" rel="alternate"/>
-    <published>2023-04-13T13:48:41+00:00</published>
   </entry>
 </feed>
