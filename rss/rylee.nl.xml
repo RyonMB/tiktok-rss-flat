@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-04-14T14:07:40+00:00</updated>
+  <updated>2023-04-15T09:49:10+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7218579923806506245</id>
-    <title>Van rijke erfgenamen tot self-made miljonairs: ontdek welke bekende ondernemers het geluk hebben gehad om rijk geboren te worden en welke het zelf hebben bereikt. 📈🤴#Succesverhalen #Inspiratie #Succesvolondernemen #Rijkgeboren #Armoede #Kansen     </title>
-    <updated>2023-04-05T14:56:52+00:00</updated>
-    <content>Van rijke erfgenamen tot self-made miljonairs: ontdek welke bekende ondernemers het geluk hebben gehad om rijk geboren te worden en welke het zelf hebben bereikt. 📈🤴#Succesverhalen #Inspiratie #Succesvolondernemen #Rijkgeboren #Armoede #Kansen     </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7218579923806506245" rel="alternate"/>
-    <published>2023-04-05T14:56:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7218910433003064581</id>
     <title>Replying to @chrisvocht  Verkopen op bol.com kan een geweldige manier zijn om je producten te verkopen, maar het brengt ook enkele risico’s met zich mee. In deze video delen we enkele belangrijke punten waar je rekening mee moet houden om succesvol te zij</title>
@@ -91,5 +83,13 @@
     <content>Je hebt KvK-inschrijving geregeld en een Bol.com-account aangemaakt, maar wat nu? 🤔 #rylee #onlineverkoop #ondernemen #inkopen #productgroei #ecommerce #tipsenadvies </content>
     <link href="https://tiktok.com/@rylee.nl/video/7221907008683953414" rel="alternate"/>
     <published>2023-04-14T14:07:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7222211468341644550</id>
+    <title>Dit zijn onze top 3 producten voor inspiratie. 💼📈 #topproducten #verkopen #ondernemen #succesvol #productideeen #tipsenadvies </title>
+    <updated>2023-04-15T09:49:10+00:00</updated>
+    <content>Dit zijn onze top 3 producten voor inspiratie. 💼📈 #topproducten #verkopen #ondernemen #succesvol #productideeen #tipsenadvies </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7222211468341644550" rel="alternate"/>
+    <published>2023-04-15T09:49:10+00:00</published>
   </entry>
 </feed>
