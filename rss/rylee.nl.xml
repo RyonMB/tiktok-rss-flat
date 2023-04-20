@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-04-19T11:39:55+00:00</updated>
+  <updated>2023-04-20T14:16:12+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7220338301469854982</id>
-    <title>Wil je ervoor zorgen dat jouw product goed wordt gevonden op Bol.com? In deze video laat ik je zien hoe je dat kunt doen. 🫵🏼📝 #rylee #Bolcomverkoop #Productvindbaarheid #ecommercetips2023  #Onlineverkopen #Succesvolondernemen</title>
-    <updated>2023-04-10T08:40:21+00:00</updated>
-    <content>Wil je ervoor zorgen dat jouw product goed wordt gevonden op Bol.com? In deze video laat ik je zien hoe je dat kunt doen. 🫵🏼📝 #rylee #Bolcomverkoop #Productvindbaarheid #ecommercetips2023  #Onlineverkopen #Succesvolondernemen</content>
-    <link href="https://tiktok.com/@rylee.nl/video/7220338301469854982" rel="alternate"/>
-    <published>2023-04-10T08:40:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7220802255023246598</id>
     <title>🤑 Wil je een gratis Rylee abonnement verdienen? Leer hoe je geld kunt verdienen met affiliate marketing in deze video. #affiliatemarketing #geldverdienen #onlinebusiness #ecommerce #rylee #marketingtips #succesvolondernemen #onlineverkoop #gratisabonnemen</title>
@@ -91,5 +83,13 @@
     <content>Flexibiliteit is de sleutel tot succes, blijf altijd aanpasbaar. 👀 #rylee #ondernemerstips #flexibititeit #bolcom #productresearch </content>
     <link href="https://tiktok.com/@rylee.nl/video/7223724338720017691" rel="alternate"/>
     <published>2023-04-19T11:39:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7224135699002445082</id>
+    <title>Wist jij dit? 🤔 Transformeer je productbeschrijving met de kracht van AI op Rylee.nl. 💪 #rylee #helptools #productbeschrijving #AI #optimaliseren #handigetips </title>
+    <updated>2023-04-20T14:16:12+00:00</updated>
+    <content>Wist jij dit? 🤔 Transformeer je productbeschrijving met de kracht van AI op Rylee.nl. 💪 #rylee #helptools #productbeschrijving #AI #optimaliseren #handigetips </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7224135699002445082" rel="alternate"/>
+    <published>2023-04-20T14:16:12+00:00</published>
   </entry>
 </feed>
