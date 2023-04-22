@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-04-21T13:21:08+00:00</updated>
+  <updated>2023-04-22T13:30:46+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7221061097648950534</id>
-    <title>Reviews zijn cruciaal voor je online business, maar hoe krijg je klanten zo ver om er één achter te laten? Check this out! 🙌 #rylee #klantenfeedback #reviews #onlinebusiness #ecommerce #klanttevredenheid #klantenbinding #marketingtips </title>
-    <updated>2023-04-12T07:25:09+00:00</updated>
-    <content>Reviews zijn cruciaal voor je online business, maar hoe krijg je klanten zo ver om er één achter te laten? Check this out! 🙌 #rylee #klantenfeedback #reviews #onlinebusiness #ecommerce #klanttevredenheid #klantenbinding #marketingtips </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7221061097648950534" rel="alternate"/>
-    <published>2023-04-12T07:25:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7221555371431808261</id>
     <title>Ontdek de top 3 producten waar je vandaag nog mee kunt starten en succesvol kunt verkopen! Bekijk onze video voor tips en tricks. 💡📈 #rylee #bol #ondernemen #ondernemer #producttips </title>
@@ -91,5 +83,13 @@
     <content>Geldstromen beheren kan lastig zijn, maar met deze tips wordt het een eitje. 🥚 #rylee #ondernemerstips #geldstromen #subrekening #BTW </content>
     <link href="https://tiktok.com/@rylee.nl/video/7224492575904894235" rel="alternate"/>
     <published>2023-04-21T13:21:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7224866172682964251</id>
+    <title>Vind de perfecte producten om op bol.com te verkopen met de slimme database van Rylee. 🧠 #rylee #database #helptools #bolcom #productresearch </title>
+    <updated>2023-04-22T13:30:46+00:00</updated>
+    <content>Vind de perfecte producten om op bol.com te verkopen met de slimme database van Rylee. 🧠 #rylee #database #helptools #bolcom #productresearch </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7224866172682964251" rel="alternate"/>
+    <published>2023-04-22T13:30:46+00:00</published>
   </entry>
 </feed>
