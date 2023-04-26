@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-04-25T15:20:48+00:00</updated>
+  <updated>2023-04-26T14:46:25+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7222726920931118342</id>
-    <title>Bekijk deze video om te leren hoe je de Chrome extensie van Rylee installeert. 🛠 Volg voor part 2. ⏭ #rylee #chromeextensie #productresearch #researchtools #ecommerce #bolcom </title>
-    <updated>2023-04-16T19:09:22+00:00</updated>
-    <content>Bekijk deze video om te leren hoe je de Chrome extensie van Rylee installeert. 🛠 Volg voor part 2. ⏭ #rylee #chromeextensie #productresearch #researchtools #ecommerce #bolcom </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7222726920931118342" rel="alternate"/>
-    <published>2023-04-16T19:09:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7223009769165049093</id>
     <title>Na deze video kan jij als een pro je product research doen op bol.com. 😎 #rylee #onlinebusiness #chromeextensie #productresearch #researchtools #bolcom  </title>
@@ -91,5 +83,13 @@
     <content>Om goede service te kunnen bieden, gelden er een aantal servicenormen op bol.com. 🫵🏼#rylee #servicenormen #bolcom #altijdbereikbaar #bellen </content>
     <link href="https://tiktok.com/@rylee.nl/video/7226007781046799642" rel="alternate"/>
     <published>2023-04-25T15:20:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7226369993380875547</id>
+    <title>Bol.com servicenormen (part 2). Wees dus op je hoede met annuleringen. 🚨 #rylee #servicenormen #bolcom #annuleringen #webshops </title>
+    <updated>2023-04-26T14:46:25+00:00</updated>
+    <content>Bol.com servicenormen (part 2). Wees dus op je hoede met annuleringen. 🚨 #rylee #servicenormen #bolcom #annuleringen #webshops </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7226369993380875547" rel="alternate"/>
+    <published>2023-04-26T14:46:25+00:00</published>
   </entry>
 </feed>
