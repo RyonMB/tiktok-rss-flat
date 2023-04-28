@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-04-27T10:28:40+00:00</updated>
+  <updated>2023-04-28T14:22:31+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7223405615400422682</id>
-    <title>Had je maar gebruik gemaakt van de Rylee service. 😉 #rylee #relateable #onlinebusiness #geldverdienen #grappig #bol </title>
-    <updated>2023-04-18T15:03:09+00:00</updated>
-    <content>Had je maar gebruik gemaakt van de Rylee service. 😉 #rylee #relateable #onlinebusiness #geldverdienen #grappig #bol </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7223405615400422682" rel="alternate"/>
-    <published>2023-04-18T15:03:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7223724338720017691</id>
     <title>Flexibiliteit is de sleutel tot succes, blijf altijd aanpasbaar. 👀 #rylee #ondernemerstips #flexibititeit #bolcom #productresearch </title>
@@ -91,5 +83,13 @@
     <content>Welke musthaves missen wij nog? 🤔 #rylee #risicos #bolcom #productresearch #cashflow </content>
     <link href="https://tiktok.com/@rylee.nl/video/7226674661763943707" rel="alternate"/>
     <published>2023-04-27T10:28:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7227106010333236506</id>
+    <title>Hier zijn tips om de risico’s op bol.com te beperken. 🙋‍♂️ #rylee #risicos #bolcom #productresearch #cashflow </title>
+    <updated>2023-04-28T14:22:31+00:00</updated>
+    <content>Hier zijn tips om de risico’s op bol.com te beperken. 🙋‍♂️ #rylee #risicos #bolcom #productresearch #cashflow </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7227106010333236506" rel="alternate"/>
+    <published>2023-04-28T14:22:31+00:00</published>
   </entry>
 </feed>
