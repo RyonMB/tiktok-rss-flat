@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-04-29T09:46:46+00:00</updated>
+  <updated>2023-04-30T07:26:51+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7224135699002445082</id>
-    <title>Wist jij dit? 🤔 Transformeer je productbeschrijving met de kracht van AI op Rylee.nl. 💪 #rylee #helptools #productbeschrijving #AI #optimaliseren #handigetips </title>
-    <updated>2023-04-20T14:16:12+00:00</updated>
-    <content>Wist jij dit? 🤔 Transformeer je productbeschrijving met de kracht van AI op Rylee.nl. 💪 #rylee #helptools #productbeschrijving #AI #optimaliseren #handigetips </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7224135699002445082" rel="alternate"/>
-    <published>2023-04-20T14:16:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7224492575904894235</id>
     <title>Geldstromen beheren kan lastig zijn, maar met deze tips wordt het een eitje. 🥚 #rylee #ondernemerstips #geldstromen #subrekening #BTW </title>
@@ -91,5 +83,13 @@
     <content>Hebben jouw producten al een ISBN- &amp; EAN-nummer? 💡 #rylee #database #helptools #bolcom #productresearch </content>
     <link href="https://tiktok.com/@rylee.nl/video/7227406020732030234" rel="alternate"/>
     <published>2023-04-29T09:46:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7227741015204056347</id>
+    <title>Deze side hustles helpen jou om extra inkomen te genereren. 💸 #rylee #sidehustle #extrainkomen #geld #investeren </title>
+    <updated>2023-04-30T07:26:51+00:00</updated>
+    <content>Deze side hustles helpen jou om extra inkomen te genereren. 💸 #rylee #sidehustle #extrainkomen #geld #investeren </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7227741015204056347" rel="alternate"/>
+    <published>2023-04-30T07:26:51+00:00</published>
   </entry>
 </feed>
