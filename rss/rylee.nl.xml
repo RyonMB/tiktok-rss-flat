@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-04-30T07:26:51+00:00</updated>
+  <updated>2023-05-01T18:31:17+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7224492575904894235</id>
-    <title>Geldstromen beheren kan lastig zijn, maar met deze tips wordt het een eitje. 🥚 #rylee #ondernemerstips #geldstromen #subrekening #BTW </title>
-    <updated>2023-04-21T13:21:08+00:00</updated>
-    <content>Geldstromen beheren kan lastig zijn, maar met deze tips wordt het een eitje. 🥚 #rylee #ondernemerstips #geldstromen #subrekening #BTW </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7224492575904894235" rel="alternate"/>
-    <published>2023-04-21T13:21:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7224866172682964251</id>
     <title>Vind de perfecte producten om op bol.com te verkopen met de slimme database van Rylee. 🧠 #rylee #database #helptools #bolcom #productresearch </title>
@@ -91,5 +83,13 @@
     <content>Deze side hustles helpen jou om extra inkomen te genereren. 💸 #rylee #sidehustle #extrainkomen #geld #investeren </content>
     <link href="https://tiktok.com/@rylee.nl/video/7227741015204056347" rel="alternate"/>
     <published>2023-04-30T07:26:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7228283351751200026</id>
+    <title>Social media maakt het gemakkelijker om mensen te bereiken, zo ook voor jouw klanten. 🙋‍♂️ #rylee #socialmedia #tiktok #influencers #promoten </title>
+    <updated>2023-05-01T18:31:17+00:00</updated>
+    <content>Social media maakt het gemakkelijker om mensen te bereiken, zo ook voor jouw klanten. 🙋‍♂️ #rylee #socialmedia #tiktok #influencers #promoten </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7228283351751200026" rel="alternate"/>
+    <published>2023-05-01T18:31:17+00:00</published>
   </entry>
 </feed>
