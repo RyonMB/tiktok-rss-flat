@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-05-04T14:45:42+00:00</updated>
+  <updated>2023-05-05T14:17:23+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7226007781046799642</id>
-    <title>Om goede service te kunnen bieden, gelden er een aantal servicenormen op bol.com. 🫵🏼#rylee #servicenormen #bolcom #altijdbereikbaar #bellen </title>
-    <updated>2023-04-25T15:20:48+00:00</updated>
-    <content>Om goede service te kunnen bieden, gelden er een aantal servicenormen op bol.com. 🫵🏼#rylee #servicenormen #bolcom #altijdbereikbaar #bellen </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7226007781046799642" rel="alternate"/>
-    <published>2023-04-25T15:20:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7226369993380875547</id>
     <title>Bol.com servicenormen (part 2). Wees dus op je hoede met annuleringen. 🚨 #rylee #servicenormen #bolcom #annuleringen #webshops </title>
@@ -91,5 +83,13 @@
     <content>Als eigen baas kun je je eigen weg gaan en de wereld op jouw manier zien. 🌍 #rylee #eigenbaas #ondernemer #flexibiliteit #onderneming </content>
     <link href="https://tiktok.com/@rylee.nl/video/7229338496480070938" rel="alternate"/>
     <published>2023-05-04T14:45:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7229702290989452570</id>
+    <title>Houd altijd grip op je favoriete producten met het onbeperkt tracken van Rylee. 🔍 #rylee #helptools #tracken #bolcom #ondernemerstips </title>
+    <updated>2023-05-05T14:17:23+00:00</updated>
+    <content>Houd altijd grip op je favoriete producten met het onbeperkt tracken van Rylee. 🔍 #rylee #helptools #tracken #bolcom #ondernemerstips </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7229702290989452570" rel="alternate"/>
+    <published>2023-05-05T14:17:23+00:00</published>
   </entry>
 </feed>
