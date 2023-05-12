@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-05-11T12:04:27+00:00</updated>
+  <updated>2023-05-12T13:52:46+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7228597918956080411</id>
-    <title>Hierbij een overzicht van verschillende gemiddelde salarissen (bruto). 💸 Hoeveel dacht jij dat een bouwvakker verdient? 👷 #rylee #gemiddeldsalaris #geld #salaris </title>
-    <updated>2023-05-02T14:51:57+00:00</updated>
-    <content>Hierbij een overzicht van verschillende gemiddelde salarissen (bruto). 💸 Hoeveel dacht jij dat een bouwvakker verdient? 👷 #rylee #gemiddeldsalaris #geld #salaris </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7228597918956080411" rel="alternate"/>
-    <published>2023-05-02T14:51:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7228920512754273562</id>
     <title>Geef je merk een persoonlijk tintje met het unieke design van Rylee. 💪 #rylee #productverpakking #helptools #handigheidje </title>
@@ -91,5 +83,13 @@
     <content>Of je nou arm of rijk bent geboren. Iedereen heeft hard moeten werken om zijn eigen weg te vinden. 🛣  ⚠️ Disclaimer: met ‘arm’ bedoelen we soms ook ‘redelijk welvarend’. #rylee #rijkdom #succes #motivatie #succesverhaal </content>
     <link href="https://tiktok.com/@rylee.nl/video/7231894506164030747" rel="alternate"/>
     <published>2023-05-11T12:04:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7232293529236671770</id>
+    <title>Dit is een overzicht van verschillende gemiddelde salarissen (bruto) 💸. Hoeveel dacht jij dat een webdesigner verdient? 👨‍💻  Bron: Indeed.nl #rylee #baan #salaris #solliciteren #geld  </title>
+    <updated>2023-05-12T13:52:46+00:00</updated>
+    <content>Dit is een overzicht van verschillende gemiddelde salarissen (bruto) 💸. Hoeveel dacht jij dat een webdesigner verdient? 👨‍💻  Bron: Indeed.nl #rylee #baan #salaris #solliciteren #geld  </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7232293529236671770" rel="alternate"/>
+    <published>2023-05-12T13:52:46+00:00</published>
   </entry>
 </feed>
