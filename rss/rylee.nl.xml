@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-05-17T13:09:38+00:00</updated>
+  <updated>2023-05-18T11:22:38+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7230835682082639130</id>
-    <title>Let je goed op? 👀 Want moederdag is al aankomende zondag. 👩‍👧‍👦Dus wat ga jij verkopen op moederdag? 🎁 #rylee #moederdag #chocola #parfum #sieraden #verzorgingsset </title>
-    <updated>2023-05-08T15:35:34+00:00</updated>
-    <content>Let je goed op? 👀 Want moederdag is al aankomende zondag. 👩‍👧‍👦Dus wat ga jij verkopen op moederdag? 🎁 #rylee #moederdag #chocola #parfum #sieraden #verzorgingsset </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7230835682082639130" rel="alternate"/>
-    <published>2023-05-08T15:35:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7231199018137832731</id>
     <title>Wacht niet langer op succes, creëer het zelf door een bedrijf te starten! 👨‍💻 #rylee #eigenbedrijf #ondernemer #jongbeginnen #succes #succesverhalen </title>
@@ -91,5 +83,13 @@
     <content>Ondernemers: Rijk geboren vs. Arm geboren.💰✨ #rylee #rijkgeboren #armgeboren #ondernemersverhalen #inspiratie #kansengrijpen #succesverhalen #ondernemerschap </content>
     <link href="https://tiktok.com/@rylee.nl/video/7234137833085144347" rel="alternate"/>
     <published>2023-05-17T13:09:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7234481351896911131</id>
+    <title>Hierbij is een overzicht van verschillende gemiddelde bruto salarissen. 💶 Wat zou volgens jou het salaris zijn van een onderwaterlasser? 🤿  Bron: loonwijzer.nl #rylee #baan #salaris #solliciteren #geld #gemiddeldsalaris </title>
+    <updated>2023-05-18T11:22:38+00:00</updated>
+    <content>Hierbij is een overzicht van verschillende gemiddelde bruto salarissen. 💶 Wat zou volgens jou het salaris zijn van een onderwaterlasser? 🤿  Bron: loonwijzer.nl #rylee #baan #salaris #solliciteren #geld #gemiddeldsalaris </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7234481351896911131" rel="alternate"/>
+    <published>2023-05-18T11:22:38+00:00</published>
   </entry>
 </feed>
