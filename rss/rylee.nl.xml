@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-05-19T14:26:27+00:00</updated>
+  <updated>2023-05-20T13:27:12+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7231568200612302106</id>
-    <title>Met deze tips heb jij geen ontevreden klanten meer. 🙋‍♂️ #rylee #klantenservice #tips #ondernemers #goedecommunicatie </title>
-    <updated>2023-05-10T14:58:08+00:00</updated>
-    <content>Met deze tips heb jij geen ontevreden klanten meer. 🙋‍♂️ #rylee #klantenservice #tips #ondernemers #goedecommunicatie </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7231568200612302106" rel="alternate"/>
-    <published>2023-05-10T14:58:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7231894506164030747</id>
     <title>Of je nou arm of rijk bent geboren. Iedereen heeft hard moeten werken om zijn eigen weg te vinden. 🛣  ⚠️ Disclaimer: met ‘arm’ bedoelen we soms ook ‘redelijk welvarend’. #rylee #rijkdom #succes #motivatie #succesverhaal </title>
@@ -91,5 +83,13 @@
     <content>Upgrade jouw kennis en vaardigheden met onze praktische cursussen van Rylee. 🆙 #rylee #kennisverbreden #vaardigheden #cursussen #gratis </content>
     <link href="https://tiktok.com/@rylee.nl/video/7234899810266959130" rel="alternate"/>
     <published>2023-05-19T14:26:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7235255599359855899</id>
+    <title>De balans vinden is de sleutel! Laat in de reacties weten hoe jij zorgt voor evenwicht in jouw leven. ⚖️💪 #rylee #workbalance #prioriteitenstellen #zelfzorg #ondernemerschap </title>
+    <updated>2023-05-20T13:27:12+00:00</updated>
+    <content>De balans vinden is de sleutel! Laat in de reacties weten hoe jij zorgt voor evenwicht in jouw leven. ⚖️💪 #rylee #workbalance #prioriteitenstellen #zelfzorg #ondernemerschap </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7235255599359855899" rel="alternate"/>
+    <published>2023-05-20T13:27:12+00:00</published>
   </entry>
 </feed>
