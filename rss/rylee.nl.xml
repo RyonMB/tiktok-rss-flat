@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-05-20T13:27:12+00:00</updated>
+  <updated>2023-05-21T17:31:41+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7231894506164030747</id>
-    <title>Of je nou arm of rijk bent geboren. Iedereen heeft hard moeten werken om zijn eigen weg te vinden. 🛣  ⚠️ Disclaimer: met ‘arm’ bedoelen we soms ook ‘redelijk welvarend’. #rylee #rijkdom #succes #motivatie #succesverhaal </title>
-    <updated>2023-05-11T12:04:27+00:00</updated>
-    <content>Of je nou arm of rijk bent geboren. Iedereen heeft hard moeten werken om zijn eigen weg te vinden. 🛣  ⚠️ Disclaimer: met ‘arm’ bedoelen we soms ook ‘redelijk welvarend’. #rylee #rijkdom #succes #motivatie #succesverhaal </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7231894506164030747" rel="alternate"/>
-    <published>2023-05-11T12:04:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7232293529236671770</id>
     <title>Dit is een overzicht van verschillende gemiddelde salarissen (bruto) 💸. Hoeveel dacht jij dat een webdesigner verdient? 👨‍💻  Bron: Indeed.nl #rylee #baan #salaris #solliciteren #geld  </title>
@@ -91,5 +83,13 @@
     <content>De balans vinden is de sleutel! Laat in de reacties weten hoe jij zorgt voor evenwicht in jouw leven. ⚖️💪 #rylee #workbalance #prioriteitenstellen #zelfzorg #ondernemerschap </content>
     <link href="https://tiktok.com/@rylee.nl/video/7235255599359855899" rel="alternate"/>
     <published>2023-05-20T13:27:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7235689669856464155</id>
+    <title>Ook herkenbaar? 😂 Met de Rylee tool maak je niet meer dezelfde fout, je ziet dit in één opslag. 👀 #rylee #relateable #bolcom #verkopen #winningproduct </title>
+    <updated>2023-05-21T17:31:41+00:00</updated>
+    <content>Ook herkenbaar? 😂 Met de Rylee tool maak je niet meer dezelfde fout, je ziet dit in één opslag. 👀 #rylee #relateable #bolcom #verkopen #winningproduct </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7235689669856464155" rel="alternate"/>
+    <published>2023-05-21T17:31:41+00:00</published>
   </entry>
 </feed>
