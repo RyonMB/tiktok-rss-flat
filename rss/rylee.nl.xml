@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-05-22T14:49:13+00:00</updated>
+  <updated>2023-05-23T14:24:17+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7232612097908116763</id>
-    <title>Welke tips heb jij nog meer voor mensen die (slim) willen sparen? 😉 #rylee #slimmersparen #sparen #tips #ondernemer #ondernemerstip </title>
-    <updated>2023-05-13T10:28:59+00:00</updated>
-    <content>Welke tips heb jij nog meer voor mensen die (slim) willen sparen? 😉 #rylee #slimmersparen #sparen #tips #ondernemer #ondernemerstip </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7232612097908116763" rel="alternate"/>
-    <published>2023-05-13T10:28:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7233114750698163482</id>
     <title>Probeer deze handige tool op Rylee.nl. ⚒️ #rylee #onlineverkopen #softwarerool #facturen #automatisch #onlineverkopen </title>
@@ -91,5 +83,13 @@
     <content>Hoe is Rylee eigenlijk ontstaan? 🤔 #rylee #ondernemersverhalen #success #ondernemen #startup </content>
     <link href="https://tiktok.com/@rylee.nl/video/7236018894937312538" rel="alternate"/>
     <published>2023-05-22T14:49:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7236383590311824667</id>
+    <title>Boost je bol.com-verkoopgame met Rylee.nl’s unieke events! 💥🚀 #rylee #events #bolcom #boostjebedrijf #ontwikkeljezelf </title>
+    <updated>2023-05-23T14:24:17+00:00</updated>
+    <content>Boost je bol.com-verkoopgame met Rylee.nl’s unieke events! 💥🚀 #rylee #events #bolcom #boostjebedrijf #ontwikkeljezelf </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7236383590311824667" rel="alternate"/>
+    <published>2023-05-23T14:24:17+00:00</published>
   </entry>
 </feed>
