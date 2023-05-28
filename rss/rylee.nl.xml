@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-05-27T18:01:13+00:00</updated>
+  <updated>2023-05-28T12:55:18+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7234481351896911131</id>
-    <title>Hierbij is een overzicht van verschillende gemiddelde bruto salarissen. 💶 Wat zou volgens jou het salaris zijn van een onderwaterlasser? 🤿  Bron: loonwijzer.nl #rylee #baan #salaris #solliciteren #geld #gemiddeldsalaris </title>
-    <updated>2023-05-18T11:22:38+00:00</updated>
-    <content>Hierbij is een overzicht van verschillende gemiddelde bruto salarissen. 💶 Wat zou volgens jou het salaris zijn van een onderwaterlasser? 🤿  Bron: loonwijzer.nl #rylee #baan #salaris #solliciteren #geld #gemiddeldsalaris </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7234481351896911131" rel="alternate"/>
-    <published>2023-05-18T11:22:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7234899810266959130</id>
     <title>Upgrade jouw kennis en vaardigheden met onze praktische cursussen van Rylee. 🆙 #rylee #kennisverbreden #vaardigheden #cursussen #gratis </title>
@@ -91,5 +83,13 @@
     <content>Maak de juiste keuzes voor je bol.com-verkoop met deze leveranciers! 🔍💼 #rylee #leveranciers #ondernemers #bolcom #verkopen </content>
     <link href="https://tiktok.com/@rylee.nl/video/7237923745216662810" rel="alternate"/>
     <published>2023-05-27T18:01:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7238216060070120730</id>
+    <title>Wat is jouw doel die jij wilt voltooien? ✅ Laat het weten in de comments. 🗣 #rylee #doelen #doelenstellen #goedgevoel #ondernemers </title>
+    <updated>2023-05-28T12:55:18+00:00</updated>
+    <content>Wat is jouw doel die jij wilt voltooien? ✅ Laat het weten in de comments. 🗣 #rylee #doelen #doelenstellen #goedgevoel #ondernemers </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7238216060070120730" rel="alternate"/>
+    <published>2023-05-28T12:55:18+00:00</published>
   </entry>
 </feed>
