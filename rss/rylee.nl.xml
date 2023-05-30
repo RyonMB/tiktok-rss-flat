@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-05-29T16:54:57+00:00</updated>
+  <updated>2023-05-30T14:43:25+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7235255599359855899</id>
-    <title>De balans vinden is de sleutel! Laat in de reacties weten hoe jij zorgt voor evenwicht in jouw leven. ⚖️💪 #rylee #workbalance #prioriteitenstellen #zelfzorg #ondernemerschap </title>
-    <updated>2023-05-20T13:27:12+00:00</updated>
-    <content>De balans vinden is de sleutel! Laat in de reacties weten hoe jij zorgt voor evenwicht in jouw leven. ⚖️💪 #rylee #workbalance #prioriteitenstellen #zelfzorg #ondernemerschap </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7235255599359855899" rel="alternate"/>
-    <published>2023-05-20T13:27:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7235689669856464155</id>
     <title>Ook herkenbaar? 😂 Met de Rylee tool maak je niet meer dezelfde fout, je ziet dit in één opslag. 👀 #rylee #relateable #bolcom #verkopen #winningproduct </title>
@@ -91,5 +83,13 @@
     <content>Bekijk eens deze verzameling van gemiddelde bruto salarissen. 💸 Ben je benieuwd naar het salaris van een producent? Bekijk dan de video. 👀  Bron: nationaleberoepengids.nl #rylee #baan #salaris #solliciteren #geld #gemiddeldsalaris </content>
     <link href="https://tiktok.com/@rylee.nl/video/7238648893863496986" rel="alternate"/>
     <published>2023-05-29T16:54:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7238986115636530459</id>
+    <title>Rich vs poor mindset. 🤑 #rylee #success #mindsetmotivation #richvspoor </title>
+    <updated>2023-05-30T14:43:25+00:00</updated>
+    <content>Rich vs poor mindset. 🤑 #rylee #success #mindsetmotivation #richvspoor </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7238986115636530459" rel="alternate"/>
+    <published>2023-05-30T14:43:25+00:00</published>
   </entry>
 </feed>
