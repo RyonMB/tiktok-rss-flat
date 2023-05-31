@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-05-30T14:43:25+00:00</updated>
+  <updated>2023-05-31T13:35:33+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7235689669856464155</id>
-    <title>Ook herkenbaar? 😂 Met de Rylee tool maak je niet meer dezelfde fout, je ziet dit in één opslag. 👀 #rylee #relateable #bolcom #verkopen #winningproduct </title>
-    <updated>2023-05-21T17:31:41+00:00</updated>
-    <content>Ook herkenbaar? 😂 Met de Rylee tool maak je niet meer dezelfde fout, je ziet dit in één opslag. 👀 #rylee #relateable #bolcom #verkopen #winningproduct </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7235689669856464155" rel="alternate"/>
-    <published>2023-05-21T17:31:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7236018894937312538</id>
     <title>Hoe is Rylee eigenlijk ontstaan? 🤔 #rylee #ondernemersverhalen #success #ondernemen #startup </title>
@@ -91,5 +83,13 @@
     <content>Rich vs poor mindset. 🤑 #rylee #success #mindsetmotivation #richvspoor </content>
     <link href="https://tiktok.com/@rylee.nl/video/7238986115636530459" rel="alternate"/>
     <published>2023-05-30T14:43:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7239339704645160218</id>
+    <title>Verhoog je verkoop op bol.com met deze gouden tips! 💰📈 #rylee #tips #ondernemen #prijzen #klantenservice #productbeschrijving </title>
+    <updated>2023-05-31T13:35:33+00:00</updated>
+    <content>Verhoog je verkoop op bol.com met deze gouden tips! 💰📈 #rylee #tips #ondernemen #prijzen #klantenservice #productbeschrijving </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7239339704645160218" rel="alternate"/>
+    <published>2023-05-31T13:35:33+00:00</published>
   </entry>
 </feed>
