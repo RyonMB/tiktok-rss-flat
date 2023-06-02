@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-06-01T13:55:03+00:00</updated>
+  <updated>2023-06-02T12:19:57+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7236383590311824667</id>
-    <title>Boost je bol.com-verkoopgame met Rylee.nl’s unieke events! 💥🚀 #rylee #events #bolcom #boostjebedrijf #ontwikkeljezelf </title>
-    <updated>2023-05-23T14:24:17+00:00</updated>
-    <content>Boost je bol.com-verkoopgame met Rylee.nl’s unieke events! 💥🚀 #rylee #events #bolcom #boostjebedrijf #ontwikkeljezelf </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7236383590311824667" rel="alternate"/>
-    <published>2023-05-23T14:24:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7236760471192276251</id>
     <title>Dit zijn E-commerce trends die je in de gaten moet houden! 😉 #ecommercetips #ecommercemarketing #trends #rylee </title>
@@ -91,5 +83,13 @@
     <content>Wat denk jij dat white en grey spots zijn? Laat het weten in de comments. 🙋‍♂️ #rylee #whiteandgreyspots #bolcom #producten </content>
     <link href="https://tiktok.com/@rylee.nl/video/7239715830005517594" rel="alternate"/>
     <published>2023-06-01T13:55:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7240062402123812123</id>
+    <title>Benieuwd naar de betekenis van white en grey spots op bol.com? 🕵️‍♂️🔎 Kijk snel naar deze video voor een verhelderende uitleg! 🫵 #rylee #whiteandgreyspots #laathetwetenindecomments #bolcom #producten </title>
+    <updated>2023-06-02T12:19:57+00:00</updated>
+    <content>Benieuwd naar de betekenis van white en grey spots op bol.com? 🕵️‍♂️🔎 Kijk snel naar deze video voor een verhelderende uitleg! 🫵 #rylee #whiteandgreyspots #laathetwetenindecomments #bolcom #producten </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7240062402123812123" rel="alternate"/>
+    <published>2023-06-02T12:19:57+00:00</published>
   </entry>
 </feed>
