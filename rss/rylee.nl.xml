@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-06-03T11:45:24+00:00</updated>
+  <updated>2023-06-04T18:49:53+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7237123006026222875</id>
-    <title>Met de Rylee tool groei jij 15% sneller op bol.com. 🚀 Waar wacht je nog op? 😮 #rylee #aftervsbefore #bolcom #groeien #ondernemers </title>
-    <updated>2023-05-25T14:13:41+00:00</updated>
-    <content>Met de Rylee tool groei jij 15% sneller op bol.com. 🚀 Waar wacht je nog op? 😮 #rylee #aftervsbefore #bolcom #groeien #ondernemers </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7237123006026222875" rel="alternate"/>
-    <published>2023-05-25T14:13:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7237501973195427099</id>
     <title>Iedereen heeft een eigen mening over een 9-5 baan. 🔁 Hoe denk jij hierover? 💭 #rylee #9tot5 #matrix #ondernemen #leukebaan </title>
@@ -91,5 +83,13 @@
     <content>Zie je het al voor je haha. 😂 #rylee #reviews #relateable #bolcom #review </content>
     <link href="https://tiktok.com/@rylee.nl/video/7240424571357187355" rel="alternate"/>
     <published>2023-06-03T11:45:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7240905056554355994</id>
+    <title>Waar wacht je nog op? Stel je brandende vragen over Rylee.nl of bol.com en krijg snel antwoord! 🔥😄 #rylee #durftevragen #bolcom #vraagantwoord #questionandanwser </title>
+    <updated>2023-06-04T18:49:53+00:00</updated>
+    <content>Waar wacht je nog op? Stel je brandende vragen over Rylee.nl of bol.com en krijg snel antwoord! 🔥😄 #rylee #durftevragen #bolcom #vraagantwoord #questionandanwser </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7240905056554355994" rel="alternate"/>
+    <published>2023-06-04T18:49:53+00:00</published>
   </entry>
 </feed>
