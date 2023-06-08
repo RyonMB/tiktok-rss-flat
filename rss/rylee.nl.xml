@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-06-07T12:52:58+00:00</updated>
+  <updated>2023-06-08T13:25:57+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7238648893863496986</id>
-    <title>Bekijk eens deze verzameling van gemiddelde bruto salarissen. 💸 Ben je benieuwd naar het salaris van een producent? Bekijk dan de video. 👀  Bron: nationaleberoepengids.nl #rylee #baan #salaris #solliciteren #geld #gemiddeldsalaris </title>
-    <updated>2023-05-29T16:54:57+00:00</updated>
-    <content>Bekijk eens deze verzameling van gemiddelde bruto salarissen. 💸 Ben je benieuwd naar het salaris van een producent? Bekijk dan de video. 👀  Bron: nationaleberoepengids.nl #rylee #baan #salaris #solliciteren #geld #gemiddeldsalaris </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7238648893863496986" rel="alternate"/>
-    <published>2023-05-29T16:54:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7238986115636530459</id>
     <title>Rich vs poor mindset. 🤑 #rylee #success #mindsetmotivation #richvspoor </title>
@@ -91,5 +83,13 @@
     <content>Stop met handmatig rekenen! 🧮 Ontdek Rylee’s superslimme rekenmachine, vergeet geen enkele kosten meer. 😎 #rylee #rekenmachine #bolcom #ecommerceondernemers </content>
     <link href="https://tiktok.com/@rylee.nl/video/7241926307230207258" rel="alternate"/>
     <published>2023-06-07T12:52:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7242305925862706458</id>
+    <title>Vergeet niet EORI-nummer aan te vragen als je zaken doet met het buitenland! 😉 #rylee #eorinummer #importeren #exporteren #zaken #buitenland </title>
+    <updated>2023-06-08T13:25:57+00:00</updated>
+    <content>Vergeet niet EORI-nummer aan te vragen als je zaken doet met het buitenland! 😉 #rylee #eorinummer #importeren #exporteren #zaken #buitenland </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7242305925862706458" rel="alternate"/>
+    <published>2023-06-08T13:25:57+00:00</published>
   </entry>
 </feed>
