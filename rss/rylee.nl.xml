@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-06-08T13:25:57+00:00</updated>
+  <updated>2023-06-09T12:17:24+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7238986115636530459</id>
-    <title>Rich vs poor mindset. 🤑 #rylee #success #mindsetmotivation #richvspoor </title>
-    <updated>2023-05-30T14:43:25+00:00</updated>
-    <content>Rich vs poor mindset. 🤑 #rylee #success #mindsetmotivation #richvspoor </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7238986115636530459" rel="alternate"/>
-    <published>2023-05-30T14:43:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7239339704645160218</id>
     <title>Verhoog je verkoop op bol.com met deze gouden tips! 💰📈 #rylee #tips #ondernemen #prijzen #klantenservice #productbeschrijving </title>
@@ -91,5 +83,13 @@
     <content>Vergeet niet EORI-nummer aan te vragen als je zaken doet met het buitenland! 😉 #rylee #eorinummer #importeren #exporteren #zaken #buitenland </content>
     <link href="https://tiktok.com/@rylee.nl/video/7242305925862706458" rel="alternate"/>
     <published>2023-06-08T13:25:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7242659322600148251</id>
+    <title>De volledige lijst met commissie staat op de website van partnerplatform.bol.com 🛍 #rylee #comissie #bolcom #percentage #kosten </title>
+    <updated>2023-06-09T12:17:24+00:00</updated>
+    <content>De volledige lijst met commissie staat op de website van partnerplatform.bol.com 🛍 #rylee #comissie #bolcom #percentage #kosten </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7242659322600148251" rel="alternate"/>
+    <published>2023-06-09T12:17:24+00:00</published>
   </entry>
 </feed>
