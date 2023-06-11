@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-06-10T12:05:25+00:00</updated>
+  <updated>2023-06-11T08:07:29+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7239715830005517594</id>
-    <title>Wat denk jij dat white en grey spots zijn? Laat het weten in de comments. 🙋‍♂️ #rylee #whiteandgreyspots #bolcom #producten </title>
-    <updated>2023-06-01T13:55:03+00:00</updated>
-    <content>Wat denk jij dat white en grey spots zijn? Laat het weten in de comments. 🙋‍♂️ #rylee #whiteandgreyspots #bolcom #producten </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7239715830005517594" rel="alternate"/>
-    <published>2023-06-01T13:55:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7240062402123812123</id>
     <title>Benieuwd naar de betekenis van white en grey spots op bol.com? 🕵️‍♂️🔎 Kijk snel naar deze video voor een verhelderende uitleg! 🫵 #rylee #whiteandgreyspots #laathetwetenindecomments #bolcom #producten </title>
@@ -91,5 +83,13 @@
     <content>Ben je nog steeds niet overtuigd? Check de volledige reviews op Trustpilot! 😌 #rylee #trustpilotreviews #reviews </content>
     <link href="https://tiktok.com/@rylee.nl/video/7243027337741176090" rel="alternate"/>
     <published>2023-06-10T12:05:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7243337065268579610</id>
+    <title>Met deze 3 redenen ga jij nooit meer verkopen op bol.com. 😉 #rylee #bolcom #ondernemers #verkopen #eigentijdenbepalen #vrijheid </title>
+    <updated>2023-06-11T08:07:29+00:00</updated>
+    <content>Met deze 3 redenen ga jij nooit meer verkopen op bol.com. 😉 #rylee #bolcom #ondernemers #verkopen #eigentijdenbepalen #vrijheid </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7243337065268579610" rel="alternate"/>
+    <published>2023-06-11T08:07:29+00:00</published>
   </entry>
 </feed>
