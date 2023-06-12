@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-06-11T08:07:29+00:00</updated>
+  <updated>2023-06-12T15:03:54+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7240062402123812123</id>
-    <title>Benieuwd naar de betekenis van white en grey spots op bol.com? 🕵️‍♂️🔎 Kijk snel naar deze video voor een verhelderende uitleg! 🫵 #rylee #whiteandgreyspots #laathetwetenindecomments #bolcom #producten </title>
-    <updated>2023-06-02T12:19:57+00:00</updated>
-    <content>Benieuwd naar de betekenis van white en grey spots op bol.com? 🕵️‍♂️🔎 Kijk snel naar deze video voor een verhelderende uitleg! 🫵 #rylee #whiteandgreyspots #laathetwetenindecomments #bolcom #producten </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7240062402123812123" rel="alternate"/>
-    <published>2023-06-02T12:19:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7240424571357187355</id>
     <title>Zie je het al voor je haha. 😂 #rylee #reviews #relateable #bolcom #review </title>
@@ -91,5 +83,13 @@
     <content>Met deze 3 redenen ga jij nooit meer verkopen op bol.com. 😉 #rylee #bolcom #ondernemers #verkopen #eigentijdenbepalen #vrijheid </content>
     <link href="https://tiktok.com/@rylee.nl/video/7243337065268579610" rel="alternate"/>
     <published>2023-06-11T08:07:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7243815507541970202</id>
+    <title>Welke termen moeten wij de volgende keer ontcijferen? 🤔💡 #rylee #cashflow #balans #debiteuren #crediteuren #debiteuren #ondernemerstermen </title>
+    <updated>2023-06-12T15:03:54+00:00</updated>
+    <content>Welke termen moeten wij de volgende keer ontcijferen? 🤔💡 #rylee #cashflow #balans #debiteuren #crediteuren #debiteuren #ondernemerstermen </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7243815507541970202" rel="alternate"/>
+    <published>2023-06-12T15:03:54+00:00</published>
   </entry>
 </feed>
