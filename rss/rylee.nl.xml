@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-06-16T13:47:36+00:00</updated>
+  <updated>2023-06-17T23:25:07+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7241926307230207258</id>
-    <title>Stop met handmatig rekenen! 🧮 Ontdek Rylee’s superslimme rekenmachine, vergeet geen enkele kosten meer. 😎 #rylee #rekenmachine #bolcom #ecommerceondernemers </title>
-    <updated>2023-06-07T12:52:58+00:00</updated>
-    <content>Stop met handmatig rekenen! 🧮 Ontdek Rylee’s superslimme rekenmachine, vergeet geen enkele kosten meer. 😎 #rylee #rekenmachine #bolcom #ecommerceondernemers </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7241926307230207258" rel="alternate"/>
-    <published>2023-06-07T12:52:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7242305925862706458</id>
     <title>Vergeet niet EORI-nummer aan te vragen als je zaken doet met het buitenland! 😉 #rylee #eorinummer #importeren #exporteren #zaken #buitenland </title>
@@ -91,5 +83,13 @@
     <content>Wanneer heb je eigenlijk geen BOIP-registratie nodig? 🤔 #rylee #boip #nadelen #merk #ondernemerstips #specialeregistratie </content>
     <link href="https://tiktok.com/@rylee.nl/video/7245280190044114203" rel="alternate"/>
     <published>2023-06-16T13:47:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7245800063908302106</id>
+    <title>Welke termen wil jij dat we de volgende keer onder de loep nemen? 🤓🔎 #rylee #ondernemerstermen #businessplan #concurrentieanalyse #omzetbelasting </title>
+    <updated>2023-06-17T23:25:07+00:00</updated>
+    <content>Welke termen wil jij dat we de volgende keer onder de loep nemen? 🤓🔎 #rylee #ondernemerstermen #businessplan #concurrentieanalyse #omzetbelasting </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7245800063908302106" rel="alternate"/>
+    <published>2023-06-17T23:25:07+00:00</published>
   </entry>
 </feed>
