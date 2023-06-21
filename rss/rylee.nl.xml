@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-06-20T12:39:35+00:00</updated>
+  <updated>2023-06-21T14:06:58+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7243337065268579610</id>
-    <title>Met deze 3 redenen ga jij nooit meer verkopen op bol.com. 😉 #rylee #bolcom #ondernemers #verkopen #eigentijdenbepalen #vrijheid </title>
-    <updated>2023-06-11T08:07:29+00:00</updated>
-    <content>Met deze 3 redenen ga jij nooit meer verkopen op bol.com. 😉 #rylee #bolcom #ondernemers #verkopen #eigentijdenbepalen #vrijheid </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7243337065268579610" rel="alternate"/>
-    <published>2023-06-11T08:07:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7243815507541970202</id>
     <title>Welke termen moeten wij de volgende keer ontcijferen? 🤔💡 #rylee #cashflow #balans #debiteuren #crediteuren #debiteuren #ondernemerstermen </title>
@@ -91,5 +83,13 @@
     <content>Het meesterbrein achter dit geweldige platform. 🚀 #rylee #ondernemers #rijk #arm #kanyewest #shouzichew #cocochanel </content>
     <link href="https://tiktok.com/@rylee.nl/video/7246746994171972891" rel="alternate"/>
     <published>2023-06-20T12:39:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7247140600393288987</id>
+    <title>Boost je inkomsten met bol.com! 💸 #rylee #bolcom #ondernemertips #partnerplatform #vasteprijs #commisions </title>
+    <updated>2023-06-21T14:06:58+00:00</updated>
+    <content>Boost je inkomsten met bol.com! 💸 #rylee #bolcom #ondernemertips #partnerplatform #vasteprijs #commisions </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7247140600393288987" rel="alternate"/>
+    <published>2023-06-21T14:06:58+00:00</published>
   </entry>
 </feed>
