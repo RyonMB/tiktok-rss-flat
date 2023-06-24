@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-06-23T14:56:11+00:00</updated>
+  <updated>2023-06-24T20:28:45+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7244523610612747546</id>
-    <title>🤯 Wist jij al wat een BOIP-registratie is? #rylee #boip #merk #ondernemerstips #specialeregistratie </title>
-    <updated>2023-06-14T12:51:44+00:00</updated>
-    <content>🤯 Wist jij al wat een BOIP-registratie is? #rylee #boip #merk #ondernemerstips #specialeregistratie </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7244523610612747546" rel="alternate"/>
-    <published>2023-06-14T12:51:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7244907626218212634</id>
     <title>Ontdek waarom een BOIP-registratie de kroon op je merk zet! 👑 #rylee #boip #voordelen #merk #ondernemerstips #specialeregistratie </title>
@@ -91,5 +83,13 @@
     <content>Met deze gouden tip weet jij welke producten je moet verkopen op Bol. 📣 (Part 1) #rylee #bolcom #ondernemerstips #evergreen #verkooptips #dennenboom </content>
     <link href="https://tiktok.com/@rylee.nl/video/7247895448244063515" rel="alternate"/>
     <published>2023-06-23T14:56:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7248352235367746842</id>
+    <title>Maak van je passie je verdienste met Bol.com 💪✨ #bolcomtips #passie #rylee #kosten #bolcom </title>
+    <updated>2023-06-24T20:28:45+00:00</updated>
+    <content>Maak van je passie je verdienste met Bol.com 💪✨ #bolcomtips #passie #rylee #kosten #bolcom </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7248352235367746842" rel="alternate"/>
+    <published>2023-06-24T20:28:45+00:00</published>
   </entry>
 </feed>
