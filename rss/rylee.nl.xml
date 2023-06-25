@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-06-24T20:28:45+00:00</updated>
+  <updated>2023-06-25T09:29:58+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7244907626218212634</id>
-    <title>Ontdek waarom een BOIP-registratie de kroon op je merk zet! 👑 #rylee #boip #voordelen #merk #ondernemerstips #specialeregistratie </title>
-    <updated>2023-06-15T13:41:57+00:00</updated>
-    <content>Ontdek waarom een BOIP-registratie de kroon op je merk zet! 👑 #rylee #boip #voordelen #merk #ondernemerstips #specialeregistratie </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7244907626218212634" rel="alternate"/>
-    <published>2023-06-15T13:41:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7245280190044114203</id>
     <title>Wanneer heb je eigenlijk geen BOIP-registratie nodig? 🤔 #rylee #boip #nadelen #merk #ondernemerstips #specialeregistratie </title>
@@ -91,5 +83,13 @@
     <content>Maak van je passie je verdienste met Bol.com 💪✨ #bolcomtips #passie #rylee #kosten #bolcom </content>
     <link href="https://tiktok.com/@rylee.nl/video/7248352235367746842" rel="alternate"/>
     <published>2023-06-24T20:28:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7248553566762175771</id>
+    <title>Hier zijn nog 5 evergreen categorieën die jij het hele jaar kunt verkopen. 🎁 (Part 2) #rylee #bolcom #ondernemerstips #evergeen #verkooptips #dennenboom </title>
+    <updated>2023-06-25T09:29:58+00:00</updated>
+    <content>Hier zijn nog 5 evergreen categorieën die jij het hele jaar kunt verkopen. 🎁 (Part 2) #rylee #bolcom #ondernemerstips #evergeen #verkooptips #dennenboom </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7248553566762175771" rel="alternate"/>
+    <published>2023-06-25T09:29:58+00:00</published>
   </entry>
 </feed>
