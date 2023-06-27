@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-06-26T13:15:26+00:00</updated>
+  <updated>2023-06-27T14:59:36+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7245800063908302106</id>
-    <title>Welke termen wil jij dat we de volgende keer onder de loep nemen? 🤓🔎 #rylee #ondernemerstermen #businessplan #concurrentieanalyse #omzetbelasting </title>
-    <updated>2023-06-17T23:25:07+00:00</updated>
-    <content>Welke termen wil jij dat we de volgende keer onder de loep nemen? 🤓🔎 #rylee #ondernemerstermen #businessplan #concurrentieanalyse #omzetbelasting </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7245800063908302106" rel="alternate"/>
-    <published>2023-06-17T23:25:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7245951610101222683</id>
     <title>Met deze AI aan je zijde, veroverjij de bol.com-marktplaats als een ware koning(in)! 🤖💥 #rylee #ai #bolcom #ondernemerstips #verkooptips #tools </title>
@@ -91,5 +83,13 @@
     <content>En maar door en door scrollen, terwijl de tijd tikt… ⏰ #rylee #ondernemerstips #makkelijkgeldverdienen #bolcom #stopmetchipseten </content>
     <link href="https://tiktok.com/@rylee.nl/video/7248982737892232475" rel="alternate"/>
     <published>2023-06-26T13:15:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7249380681065843995</id>
+    <title>Dit is inprincipe het enige wat je nodig hebt voor een bol.com business. 😉 #rylee #bolcom #kvk #dingendiejenodighebt #starters #ondernemers </title>
+    <updated>2023-06-27T14:59:36+00:00</updated>
+    <content>Dit is inprincipe het enige wat je nodig hebt voor een bol.com business. 😉 #rylee #bolcom #kvk #dingendiejenodighebt #starters #ondernemers </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7249380681065843995" rel="alternate"/>
+    <published>2023-06-27T14:59:36+00:00</published>
   </entry>
 </feed>
