@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-07-14T13:15:12+00:00</updated>
+  <updated>2023-07-15T21:06:58+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7251968407984278810</id>
-    <title>Probeer voor jezelf grote doelen op te stellen. ✨ Het stellen van grote doelen biedt je onder andere motivatie, focus en persoonlijke groei. 💪 #rylee #doelenstellen #motivatie #voldoening #focus #inspireren </title>
-    <updated>2023-07-04T14:21:18+00:00</updated>
-    <content>Probeer voor jezelf grote doelen op te stellen. ✨ Het stellen van grote doelen biedt je onder andere motivatie, focus en persoonlijke groei. 💪 #rylee #doelenstellen #motivatie #voldoening #focus #inspireren </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7251968407984278810" rel="alternate"/>
-    <published>2023-07-04T14:21:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7252333658319686939</id>
     <title>Hier zijn 4 tips om beter te scoren op Bol.com. 🫵 #rylee #bolcom #klantvertrouwen #voordelen #zichtbaarheid #ondernemerstips </title>
@@ -91,5 +83,13 @@
     <content>Dit zijn de gemiddelde salarissen (bruto) van overheids- en juridische beroepen! 👨🏽‍⚖️👩🏻‍⚖️ Bronnen: - Nationaalberoepengids.nl: belastinginspecteur - Werkzoeken.nl: ambtenaar &amp; juridisch medewerker - Indeed.com: beleidsadviseur  #rylee #gemiddeldsalaris #werken #baan </content>
     <link href="https://tiktok.com/@rylee.nl/video/7255662225292053787" rel="alternate"/>
     <published>2023-07-14T13:15:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7256154873421466906</id>
+    <title>Bol.com vs AliExpress. 📦 #rylee #aliexpress #bolcom </title>
+    <updated>2023-07-15T21:06:58+00:00</updated>
+    <content>Bol.com vs AliExpress. 📦 #rylee #aliexpress #bolcom </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7256154873421466906" rel="alternate"/>
+    <published>2023-07-15T21:06:58+00:00</published>
   </entry>
 </feed>
