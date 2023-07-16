@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-07-15T21:06:58+00:00</updated>
+  <updated>2023-07-16T09:19:42+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7252333658319686939</id>
-    <title>Hier zijn 4 tips om beter te scoren op Bol.com. 🫵 #rylee #bolcom #klantvertrouwen #voordelen #zichtbaarheid #ondernemerstips </title>
-    <updated>2023-07-05T13:58:43+00:00</updated>
-    <content>Hier zijn 4 tips om beter te scoren op Bol.com. 🫵 #rylee #bolcom #klantvertrouwen #voordelen #zichtbaarheid #ondernemerstips </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7252333658319686939" rel="alternate"/>
-    <published>2023-07-05T13:58:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7253038992885681434</id>
     <title>Is het de moeite waard om je eigen webshop op te zetten of te verkopen op Bol.com? 🤔 part 1 #rylee #eigenwebshop #voordelen #nadelen </title>
@@ -91,5 +83,13 @@
     <content>Bol.com vs AliExpress. 📦 #rylee #aliexpress #bolcom </content>
     <link href="https://tiktok.com/@rylee.nl/video/7256154873421466906" rel="alternate"/>
     <published>2023-07-15T21:06:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7256343700660309274</id>
+    <title>Part 2 - Eigen webshop: Totale controle!  💪 Bol.com: Groot bereik! 🌎 #rylee #proandcons #bolcom #platform #ecommerce </title>
+    <updated>2023-07-16T09:19:42+00:00</updated>
+    <content>Part 2 - Eigen webshop: Totale controle!  💪 Bol.com: Groot bereik! 🌎 #rylee #proandcons #bolcom #platform #ecommerce </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7256343700660309274" rel="alternate"/>
+    <published>2023-07-16T09:19:42+00:00</published>
   </entry>
 </feed>
