@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-07-16T09:19:42+00:00</updated>
+  <updated>2023-07-17T17:21:02+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7253038992885681434</id>
-    <title>Is het de moeite waard om je eigen webshop op te zetten of te verkopen op Bol.com? 🤔 part 1 #rylee #eigenwebshop #voordelen #nadelen </title>
-    <updated>2023-07-07T11:35:45+00:00</updated>
-    <content>Is het de moeite waard om je eigen webshop op te zetten of te verkopen op Bol.com? 🤔 part 1 #rylee #eigenwebshop #voordelen #nadelen </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7253038992885681434" rel="alternate"/>
-    <published>2023-07-07T11:35:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7253519365507681562</id>
     <title>Bekijk eens deze verzamelingen van gemiddelde bruto salarissen. 💸 Hoeveel dacht jij dat een Tattoo artist verdient? 🤨 Bronnen: Glassdoor.nl indeed.com #rylee #salaris #geldverdienen #tattooartist #ondernemers </title>
@@ -91,5 +83,13 @@
     <content>Part 2 - Eigen webshop: Totale controle!  💪 Bol.com: Groot bereik! 🌎 #rylee #proandcons #bolcom #platform #ecommerce </content>
     <link href="https://tiktok.com/@rylee.nl/video/7256343700660309274" rel="alternate"/>
     <published>2023-07-16T09:19:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7256838823034801435</id>
+    <title>Hierbij een overzicht van verschillende gemiddelde bruto salarissen.💰 Welk van deze beroepen trekt jou het meest aan? 🥰 #rylee #geld #salaris #gemiddeldsalaris #baan</title>
+    <updated>2023-07-17T17:21:02+00:00</updated>
+    <content>Hierbij een overzicht van verschillende gemiddelde bruto salarissen.💰 Welk van deze beroepen trekt jou het meest aan? 🥰 #rylee #geld #salaris #gemiddeldsalaris #baan</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7256838823034801435" rel="alternate"/>
+    <published>2023-07-17T17:21:02+00:00</published>
   </entry>
 </feed>
