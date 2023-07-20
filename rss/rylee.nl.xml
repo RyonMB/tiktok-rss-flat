@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-07-19T14:18:05+00:00</updated>
+  <updated>2023-07-20T15:14:26+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7254240647723420954</id>
-    <title>Met dit stappenplan ontwikkel je een winnende aanpak om meer te verkopen. 📈🚀 #rylee #bolbusinessgrowing #selllikeapro #tips </title>
-    <updated>2023-07-10T17:18:45+00:00</updated>
-    <content>Met dit stappenplan ontwikkel je een winnende aanpak om meer te verkopen. 📈🚀 #rylee #bolbusinessgrowing #selllikeapro #tips </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7254240647723420954" rel="alternate"/>
-    <published>2023-07-10T17:18:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7254550321656089883</id>
     <title>Klaar om de concurrentie te verslaan?🥇 #rylee #concurrentie #onderzoek #stapvoor #concurrentieanalyse </title>
@@ -91,5 +83,13 @@
     <content>Hierbij een overzicht van verschillende  bruto salarissen binnen de creatieve sector.💸 Wat dacht jij dat een danser of danseres verdiende? 💃 Bronnen: nationaleberoepengids.nl werkzoeken.nl #rylee #salarissen #danser #gemiddeldesalarissen</content>
     <link href="https://tiktok.com/@rylee.nl/video/7257533839680048411" rel="alternate"/>
     <published>2023-07-19T14:18:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7257919463104744730</id>
+    <title>Wat vind jij? 🤨 Biedt het associëren van luxe met geluk een vals gevoel van vervulling?🍀 #rylee #ondernemen #onlineverkopen #bolcom</title>
+    <updated>2023-07-20T15:14:26+00:00</updated>
+    <content>Wat vind jij? 🤨 Biedt het associëren van luxe met geluk een vals gevoel van vervulling?🍀 #rylee #ondernemen #onlineverkopen #bolcom</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7257919463104744730" rel="alternate"/>
+    <published>2023-07-20T15:14:26+00:00</published>
   </entry>
 </feed>
