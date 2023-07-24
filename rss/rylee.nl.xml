@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-07-23T14:48:53+00:00</updated>
+  <updated>2023-07-24T15:32:26+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7255662225292053787</id>
-    <title>Dit zijn de gemiddelde salarissen (bruto) van overheids- en juridische beroepen! 👨🏽‍⚖️👩🏻‍⚖️ Bronnen: - Nationaalberoepengids.nl: belastinginspecteur - Werkzoeken.nl: ambtenaar &amp; juridisch medewerker - Indeed.com: beleidsadviseur  #rylee #gemiddeldsalaris </title>
-    <updated>2023-07-14T13:15:12+00:00</updated>
-    <content>Dit zijn de gemiddelde salarissen (bruto) van overheids- en juridische beroepen! 👨🏽‍⚖️👩🏻‍⚖️ Bronnen: - Nationaalberoepengids.nl: belastinginspecteur - Werkzoeken.nl: ambtenaar &amp; juridisch medewerker - Indeed.com: beleidsadviseur  #rylee #gemiddeldsalaris #werken #baan </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7255662225292053787" rel="alternate"/>
-    <published>2023-07-14T13:15:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7256154873421466906</id>
     <title>Bol.com vs AliExpress. 📦 #rylee #aliexpress #bolcom </title>
@@ -91,5 +83,13 @@
     <content>Wist jij dat één van de rijkste mensen ter wereld gestopt is met school? 😮 #rylee #ondrenemers #rijk #arm #steveaoki</content>
     <link href="https://tiktok.com/@rylee.nl/video/7259026132857605403" rel="alternate"/>
     <published>2023-07-23T14:48:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7259408428861345050</id>
+    <title>Koopblok part 1: Niet te missen zoekresultaten met scherpe prijzen, snelle levering en hoogwaardige kwaliteit voor de ultieme klanttevredenheid. 🚀 #rylee #salaris #koopblok #klanttevredenheid</title>
+    <updated>2023-07-24T15:32:26+00:00</updated>
+    <content>Koopblok part 1: Niet te missen zoekresultaten met scherpe prijzen, snelle levering en hoogwaardige kwaliteit voor de ultieme klanttevredenheid. 🚀 #rylee #salaris #koopblok #klanttevredenheid</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7259408428861345050" rel="alternate"/>
+    <published>2023-07-24T15:32:26+00:00</published>
   </entry>
 </feed>
