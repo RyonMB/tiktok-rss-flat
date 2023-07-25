@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-07-24T15:32:26+00:00</updated>
+  <updated>2023-07-25T14:53:14+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7256154873421466906</id>
-    <title>Bol.com vs AliExpress. 📦 #rylee #aliexpress #bolcom </title>
-    <updated>2023-07-15T21:06:58+00:00</updated>
-    <content>Bol.com vs AliExpress. 📦 #rylee #aliexpress #bolcom </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7256154873421466906" rel="alternate"/>
-    <published>2023-07-15T21:06:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7256343700660309274</id>
     <title>Part 2 - Eigen webshop: Totale controle!  💪 Bol.com: Groot bereik! 🌎 #rylee #proandcons #bolcom #platform #ecommerce </title>
@@ -91,5 +83,13 @@
     <content>Koopblok part 1: Niet te missen zoekresultaten met scherpe prijzen, snelle levering en hoogwaardige kwaliteit voor de ultieme klanttevredenheid. 🚀 #rylee #salaris #koopblok #klanttevredenheid</content>
     <link href="https://tiktok.com/@rylee.nl/video/7259408428861345050" rel="alternate"/>
     <published>2023-07-24T15:32:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7259769424780086555</id>
+    <title>Koopblok Part 2: Ontdek waarom 97% van de klanten het aanbod binnen het koopblok verkiest. 📈 #rylee #koopblok #klanttevredenheid #winst </title>
+    <updated>2023-07-25T14:53:14+00:00</updated>
+    <content>Koopblok Part 2: Ontdek waarom 97% van de klanten het aanbod binnen het koopblok verkiest. 📈 #rylee #koopblok #klanttevredenheid #winst </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7259769424780086555" rel="alternate"/>
+    <published>2023-07-25T14:53:14+00:00</published>
   </entry>
 </feed>
