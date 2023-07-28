@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-07-27T18:02:44+00:00</updated>
+  <updated>2023-07-28T16:01:37+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7257167206335745306</id>
-    <title>Wat betekent succes voor jou? Is het het bereiken van doelen, het vinden van geluk, of een combinatie van beide? 🤑🍀 #rylee #ondernemen #succes #peroonlijke #ontwikkeling</title>
-    <updated>2023-07-18T14:35:23+00:00</updated>
-    <content>Wat betekent succes voor jou? Is het het bereiken van doelen, het vinden van geluk, of een combinatie van beide? 🤑🍀 #rylee #ondernemen #succes #peroonlijke #ontwikkeling</content>
-    <link href="https://tiktok.com/@rylee.nl/video/7257167206335745306" rel="alternate"/>
-    <published>2023-07-18T14:35:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7257533839680048411</id>
     <title>Hierbij een overzicht van verschillende  bruto salarissen binnen de creatieve sector.💸 Wat dacht jij dat een danser of danseres verdiende? 💃 Bronnen: nationaleberoepengids.nl werkzoeken.nl #rylee #salarissen #danser #gemiddeldesalarissen</title>
@@ -91,5 +83,13 @@
     <content>Klaar voor winst? 💸 Wij hebben een lijst samengesteld met producten die jou kunnen helpen om jouw winst te vergroten.🤩 #rylee #winst #producten #top3gadgets</content>
     <link href="https://tiktok.com/@rylee.nl/video/7260560426935635226" rel="alternate"/>
     <published>2023-07-27T18:02:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7260900292688891162</id>
+    <title>Rijk geboren worden is geen vereiste om welvaart te vergren, Larry Elisson is daar het bewijs van. 💪💰</title>
+    <updated>2023-07-28T16:01:37+00:00</updated>
+    <content>Rijk geboren worden is geen vereiste om welvaart te vergren, Larry Elisson is daar het bewijs van. 💪💰</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7260900292688891162" rel="alternate"/>
+    <published>2023-07-28T16:01:37+00:00</published>
   </entry>
 </feed>
