@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-07-29T07:23:43+00:00</updated>
+  <updated>2023-07-30T12:23:38+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7257919463104744730</id>
-    <title>Wat vind jij? 🤨 Biedt het associëren van luxe met geluk een vals gevoel van vervulling?🍀 #rylee #ondernemen #onlineverkopen #bolcom</title>
-    <updated>2023-07-20T15:14:26+00:00</updated>
-    <content>Wat vind jij? 🤨 Biedt het associëren van luxe met geluk een vals gevoel van vervulling?🍀 #rylee #ondernemen #onlineverkopen #bolcom</content>
-    <link href="https://tiktok.com/@rylee.nl/video/7257919463104744730" rel="alternate"/>
-    <published>2023-07-20T15:14:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7258298415174421786</id>
     <title>Wist jij al wat een eventplanner gemiddeld (bruto) verdient? 🎪💸 Bronnen: nationaleberoepengids.nl glassdoor.nl #rylee #salarissen #tour #gemiddeldesalarissen </title>
@@ -91,5 +83,13 @@
     <content>Hebben van een reden waarom je iets doet, geeft je een sterke motivatie. Wat is jouw drive? 💪🚀 #rylee #drive #motivatie #ondernemerschaptips </content>
     <link href="https://tiktok.com/@rylee.nl/video/7261137877533281563" rel="alternate"/>
     <published>2023-07-29T07:23:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7261586306008894746</id>
+    <title>Wil jij weten hoeveel je verdient als een financieel adviseur? Bekijk dan deze video. 👀💰 #rylee #salarissen #bruto #geld #salaris #gemiddeldesalaris #baan Bron: werkzoeken.nl</title>
+    <updated>2023-07-30T12:23:38+00:00</updated>
+    <content>Wil jij weten hoeveel je verdient als een financieel adviseur? Bekijk dan deze video. 👀💰 #rylee #salarissen #bruto #geld #salaris #gemiddeldesalaris #baan Bron: werkzoeken.nl</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7261586306008894746" rel="alternate"/>
+    <published>2023-07-30T12:23:38+00:00</published>
   </entry>
 </feed>
