@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-08-02T15:11:53+00:00</updated>
+  <updated>2023-08-02T22:13:42.340783+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,84 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7259026132857605403</id>
-    <title>Wist jij dat één van de rijkste mensen ter wereld gestopt is met school? 😮 #rylee #ondrenemers #rijk #arm #steveaoki</title>
-    <updated>2023-07-23T14:48:53+00:00</updated>
-    <content>Wist jij dat één van de rijkste mensen ter wereld gestopt is met school? 😮 #rylee #ondrenemers #rijk #arm #steveaoki</content>
-    <link href="https://tiktok.com/@rylee.nl/video/7259026132857605403" rel="alternate"/>
-    <published>2023-07-23T14:48:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7259408428861345050</id>
-    <title>Koopblok part 1: Niet te missen zoekresultaten met scherpe prijzen, snelle levering en hoogwaardige kwaliteit voor de ultieme klanttevredenheid. 🚀 #rylee #salaris #koopblok #klanttevredenheid</title>
-    <updated>2023-07-24T15:32:26+00:00</updated>
-    <content>Koopblok part 1: Niet te missen zoekresultaten met scherpe prijzen, snelle levering en hoogwaardige kwaliteit voor de ultieme klanttevredenheid. 🚀 #rylee #salaris #koopblok #klanttevredenheid</content>
-    <link href="https://tiktok.com/@rylee.nl/video/7259408428861345050" rel="alternate"/>
-    <published>2023-07-24T15:32:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7259769424780086555</id>
-    <title>Koopblok Part 2: Ontdek waarom 97% van de klanten het aanbod binnen het koopblok verkiest. 📈 #rylee #koopblok #klanttevredenheid #winst </title>
-    <updated>2023-07-25T14:53:14+00:00</updated>
-    <content>Koopblok Part 2: Ontdek waarom 97% van de klanten het aanbod binnen het koopblok verkiest. 📈 #rylee #koopblok #klanttevredenheid #winst </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7259769424780086555" rel="alternate"/>
-    <published>2023-07-25T14:53:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7260134368453102875</id>
-    <title>Wijsheid in ondernemerschap: als je te snel wilt gaan, loop je het risico om onderuit te gaan. 🏃‍♀️🚶#rylee #ondernemen #risico #advies </title>
-    <updated>2023-07-26T14:29:23+00:00</updated>
-    <content>Wijsheid in ondernemerschap: als je te snel wilt gaan, loop je het risico om onderuit te gaan. 🏃‍♀️🚶#rylee #ondernemen #risico #advies </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7260134368453102875" rel="alternate"/>
-    <published>2023-07-26T14:29:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7260560426935635226</id>
-    <title>Klaar voor winst? 💸 Wij hebben een lijst samengesteld met producten die jou kunnen helpen om jouw winst te vergroten.🤩 #rylee #winst #producten #top3gadgets</title>
-    <updated>2023-07-27T18:02:44+00:00</updated>
-    <content>Klaar voor winst? 💸 Wij hebben een lijst samengesteld met producten die jou kunnen helpen om jouw winst te vergroten.🤩 #rylee #winst #producten #top3gadgets</content>
-    <link href="https://tiktok.com/@rylee.nl/video/7260560426935635226" rel="alternate"/>
-    <published>2023-07-27T18:02:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7260900292688891162</id>
-    <title>Rijk geboren worden is geen vereiste om welvaart te vergren, Larry Elisson is daar het bewijs van. 💪💰</title>
-    <updated>2023-07-28T16:01:37+00:00</updated>
-    <content>Rijk geboren worden is geen vereiste om welvaart te vergren, Larry Elisson is daar het bewijs van. 💪💰</content>
-    <link href="https://tiktok.com/@rylee.nl/video/7260900292688891162" rel="alternate"/>
-    <published>2023-07-28T16:01:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7261137877533281563</id>
-    <title>Hebben van een reden waarom je iets doet, geeft je een sterke motivatie. Wat is jouw drive? 💪🚀 #rylee #drive #motivatie #ondernemerschaptips </title>
-    <updated>2023-07-29T07:23:43+00:00</updated>
-    <content>Hebben van een reden waarom je iets doet, geeft je een sterke motivatie. Wat is jouw drive? 💪🚀 #rylee #drive #motivatie #ondernemerschaptips </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7261137877533281563" rel="alternate"/>
-    <published>2023-07-29T07:23:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7261586306008894746</id>
-    <title>Wil jij weten hoeveel je verdient als een financieel adviseur? Bekijk dan deze video. 👀💰 #rylee #salarissen #bruto #geld #salaris #gemiddeldesalaris #baan Bron: werkzoeken.nl</title>
-    <updated>2023-07-30T12:23:38+00:00</updated>
-    <content>Wil jij weten hoeveel je verdient als een financieel adviseur? Bekijk dan deze video. 👀💰 #rylee #salarissen #bruto #geld #salaris #gemiddeldesalaris #baan Bron: werkzoeken.nl</content>
-    <link href="https://tiktok.com/@rylee.nl/video/7261586306008894746" rel="alternate"/>
-    <published>2023-07-30T12:23:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7262352916663536929</id>
-    <title>Hoeveel verdien jij in vergelijking met het modaal inkomen in Nederland? 💰🇳🇱 #rylee #modaalinkomen #inkomensvergelijking #financiën #geldzaken #salarissen </title>
-    <updated>2023-08-01T13:58:28+00:00</updated>
-    <content>Hoeveel verdien jij in vergelijking met het modaal inkomen in Nederland? 💰🇳🇱 #rylee #modaalinkomen #inkomensvergelijking #financiën #geldzaken #salarissen </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7262352916663536929" rel="alternate"/>
-    <published>2023-08-01T13:58:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7262742922985032993</id>
-    <title>Ontdek de meest gewilde items om jouw winst te vergroten! 📊📦 #rylee #bolcomtrends #trendingproducten #winstgevendheid #onlinebusiness #ecommercetrends </title>
-    <updated>2023-08-02T15:11:53+00:00</updated>
-    <content>Ontdek de meest gewilde items om jouw winst te vergroten! 📊📦 #rylee #bolcomtrends #trendingproducten #winstgevendheid #onlinebusiness #ecommercetrends </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7262742922985032993" rel="alternate"/>
-    <published>2023-08-02T15:11:53+00:00</published>
-  </entry>
 </feed>
