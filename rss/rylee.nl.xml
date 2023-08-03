@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-08-02T15:11:53+00:00</updated>
+  <updated>2023-08-03T15:30:37+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -27,14 +27,6 @@
     <content>Koopblok part 1: Niet te missen zoekresultaten met scherpe prijzen, snelle levering en hoogwaardige kwaliteit voor de ultieme klanttevredenheid. 🚀 #rylee #salaris #koopblok #klanttevredenheid</content>
     <link href="https://tiktok.com/@rylee.nl/video/7259408428861345050" rel="alternate"/>
     <published>2023-07-24T15:32:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7259769424780086555</id>
-    <title>Koopblok Part 2: Ontdek waarom 97% van de klanten het aanbod binnen het koopblok verkiest. 📈 #rylee #koopblok #klanttevredenheid #winst </title>
-    <updated>2023-07-25T14:53:14+00:00</updated>
-    <content>Koopblok Part 2: Ontdek waarom 97% van de klanten het aanbod binnen het koopblok verkiest. 📈 #rylee #koopblok #klanttevredenheid #winst </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7259769424780086555" rel="alternate"/>
-    <published>2023-07-25T14:53:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7260134368453102875</id>
@@ -91,5 +83,13 @@
     <content>Ontdek de meest gewilde items om jouw winst te vergroten! 📊📦 #rylee #bolcomtrends #trendingproducten #winstgevendheid #onlinebusiness #ecommercetrends </content>
     <link href="https://tiktok.com/@rylee.nl/video/7262742922985032993" rel="alternate"/>
     <published>2023-08-02T15:11:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7263118821186112801</id>
+    <title>Hoe zit het met het salaris van jongeren? Ontdek hier de minimumlonen! 👀 #rylee #minimumlonen #eerstebaan #jongerenwerk #werkervaring #geldverdienen #jeugdloon </title>
+    <updated>2023-08-03T15:30:37+00:00</updated>
+    <content>Hoe zit het met het salaris van jongeren? Ontdek hier de minimumlonen! 👀 #rylee #minimumlonen #eerstebaan #jongerenwerk #werkervaring #geldverdienen #jeugdloon </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7263118821186112801" rel="alternate"/>
+    <published>2023-08-03T15:30:37+00:00</published>
   </entry>
 </feed>
