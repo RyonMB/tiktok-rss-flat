@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-08-15T13:24:28+00:00</updated>
+  <updated>2023-08-16T14:50:28+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7261586306008894746</id>
-    <title>Wil jij weten hoeveel je verdient als een financieel adviseur? Bekijk dan deze video. 👀💰 #rylee #salarissen #bruto #geld #salaris #gemiddeldesalaris #baan Bron: werkzoeken.nl</title>
-    <updated>2023-07-30T12:23:38+00:00</updated>
-    <content>Wil jij weten hoeveel je verdient als een financieel adviseur? Bekijk dan deze video. 👀💰 #rylee #salarissen #bruto #geld #salaris #gemiddeldesalaris #baan Bron: werkzoeken.nl</content>
-    <link href="https://tiktok.com/@rylee.nl/video/7261586306008894746" rel="alternate"/>
-    <published>2023-07-30T12:23:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7262352916663536929</id>
     <title>Hoeveel verdien jij in vergelijking met het modaal inkomen in Nederland? 💰🇳🇱 #rylee #modaalinkomen #inkomensvergelijking #financiën #geldzaken #salarissen </title>
@@ -91,5 +83,13 @@
     <content>Verkoop deze populaire producten en boost je online winkel! 🚀 #rylee #bolcombestsellers #verkopenopbol #ecommerce #onlinewinkel #populaireproducten </content>
     <link href="https://tiktok.com/@rylee.nl/video/7267539344867577120" rel="alternate"/>
     <published>2023-08-15T13:24:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7267932588973591841</id>
+    <title>Dropshippen is geen optie op bol.com! 🚫 Alleen eigen voorraad mag worden verkocht. ✅ #rylee #bolcomeigenvoorraad #dropshippennotallowed #dropshippingrisico #bolcomgevolgen #ondernemersrisico </title>
+    <updated>2023-08-16T14:50:28+00:00</updated>
+    <content>Dropshippen is geen optie op bol.com! 🚫 Alleen eigen voorraad mag worden verkocht. ✅ #rylee #bolcomeigenvoorraad #dropshippennotallowed #dropshippingrisico #bolcomgevolgen #ondernemersrisico </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7267932588973591841" rel="alternate"/>
+    <published>2023-08-16T14:50:28+00:00</published>
   </entry>
 </feed>
