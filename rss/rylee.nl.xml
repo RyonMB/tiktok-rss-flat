@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-08-28T11:09:38+00:00</updated>
+  <updated>2023-08-30T15:12:33+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7264591022548684065</id>
-    <title>Benieuwd naar de verdiensten als Van Moof monteur? 🔧 Bron: loonwijzer.nl | jooble.org #rylee #gemiddeldesalarissen #automonteur #scootermonteur #fietsmonteur #vanmoof </title>
-    <updated>2023-08-07T14:43:32+00:00</updated>
-    <content>Benieuwd naar de verdiensten als Van Moof monteur? 🔧 Bron: loonwijzer.nl | jooble.org #rylee #gemiddeldesalarissen #automonteur #scootermonteur #fietsmonteur #vanmoof </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7264591022548684065" rel="alternate"/>
-    <published>2023-08-07T14:43:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7265327889137093920</id>
     <title>💼 Nieuw in de werkwereld? Ondek de minimumlonen per leeftijd! #rylee #minimumloon #eerstebaantje #jongerenwerk #jongerenbaantjes #starterssalaris </title>
@@ -91,5 +83,13 @@
     <content>Is zo’n cursus echt de moeite waard? 🤔📚 Doe je research en lees ervaringen van anderen voordat je je geld uitgeeft!  #rylee #bespaarjegeld #geendurecursussen #ondernemers #ondernemerswaarschuwing #verkoopadvies #ecommerce #onlineverkopen</content>
     <link href="https://tiktok.com/@rylee.nl/video/7272328692188089633" rel="alternate"/>
     <published>2023-08-28T11:09:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7273133471218863393</id>
+    <title>De aanhouder wint! Blijf hard werken en zie hoe dingen goed komen. 😌💪 #rylee #expectationvsreality #hardwerken #rijkworden </title>
+    <updated>2023-08-30T15:12:33+00:00</updated>
+    <content>De aanhouder wint! Blijf hard werken en zie hoe dingen goed komen. 😌💪 #rylee #expectationvsreality #hardwerken #rijkworden </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7273133471218863393" rel="alternate"/>
+    <published>2023-08-30T15:12:33+00:00</published>
   </entry>
 </feed>
