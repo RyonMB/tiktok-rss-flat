@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-09-06T15:10:32+00:00</updated>
+  <updated>2023-09-08T15:22:11+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7267539344867577120</id>
-    <title>Verkoop deze populaire producten en boost je online winkel! 🚀 #rylee #bolcombestsellers #verkopenopbol #ecommerce #onlinewinkel #populaireproducten </title>
-    <updated>2023-08-15T13:24:28+00:00</updated>
-    <content>Verkoop deze populaire producten en boost je online winkel! 🚀 #rylee #bolcombestsellers #verkopenopbol #ecommerce #onlinewinkel #populaireproducten </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7267539344867577120" rel="alternate"/>
-    <published>2023-08-15T13:24:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7267932588973591841</id>
     <title>Dropshippen is geen optie op bol.com! 🚫 Alleen eigen voorraad mag worden verkocht. ✅ #rylee #bolcomeigenvoorraad #dropshippennotallowed #dropshippingrisico #bolcomgevolgen #ondernemersrisico </title>
@@ -91,5 +83,13 @@
     <content>🚀 Meer verkopen bij bol.com begint met een krachtige brandingstrategie! 📊 Ontdek hoe je meer kunt versterken en je verkoop kunt latten groeien!  #rylee #bolcom #brandingstrategie #branding #strategie #verkooptips #onlinebusiness #onlinebusinesstips </content>
     <link href="https://tiktok.com/@rylee.nl/video/7275730552060136736" rel="alternate"/>
     <published>2023-09-06T15:10:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7276475718605802784</id>
+    <title>Laat bol.com voor de logistiek zorgen, van productie tot klanten! 📦 Check snel deze video voor de voordelen. 😌 #rylee #logistiek #bolcom #onlinebusiness #ecommerce #verkooptip #onlinewinkel </title>
+    <updated>2023-09-08T15:22:11+00:00</updated>
+    <content>Laat bol.com voor de logistiek zorgen, van productie tot klanten! 📦 Check snel deze video voor de voordelen. 😌 #rylee #logistiek #bolcom #onlinebusiness #ecommerce #verkooptip #onlinewinkel </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7276475718605802784" rel="alternate"/>
+    <published>2023-09-08T15:22:11+00:00</published>
   </entry>
 </feed>
