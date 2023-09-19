@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-09-17T08:40:47+00:00</updated>
+  <updated>2023-09-19T08:38:17+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7272328692188089633</id>
-    <title>Is zo’n cursus echt de moeite waard? 🤔📚 Doe je research en lees ervaringen van anderen voordat je je geld uitgeeft!  #rylee #bespaarjegeld #geendurecursussen #ondernemers #ondernemerswaarschuwing #verkoopadvies #ecommerce #onlineverkopen</title>
-    <updated>2023-08-28T11:09:38+00:00</updated>
-    <content>Is zo’n cursus echt de moeite waard? 🤔📚 Doe je research en lees ervaringen van anderen voordat je je geld uitgeeft!  #rylee #bespaarjegeld #geendurecursussen #ondernemers #ondernemerswaarschuwing #verkoopadvies #ecommerce #onlineverkopen</content>
-    <link href="https://tiktok.com/@rylee.nl/video/7272328692188089633" rel="alternate"/>
-    <published>2023-08-28T11:09:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7273133471218863393</id>
     <title>De aanhouder wint! Blijf hard werken en zie hoe dingen goed komen. 😌💪 #rylee #expectationvsreality #hardwerken #rijkworden </title>
@@ -91,5 +83,13 @@
     <content>Top tips: Slechte reviews zijn kansen in vermomming! Ontdek in deze video hoe je dat kunt doen. 💪 #rylee #slecht #reviews #bolcomtips </content>
     <link href="https://tiktok.com/@rylee.nl/video/7279712045660917025" rel="alternate"/>
     <published>2023-09-17T08:40:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7280453558766472481</id>
+    <title>Wij delen onze top 3 producten die je niet mag missen! 🎯 #rylee #bolcomtips #bestsellingitems #retailmagic </title>
+    <updated>2023-09-19T08:38:17+00:00</updated>
+    <content>Wij delen onze top 3 producten die je niet mag missen! 🎯 #rylee #bolcomtips #bestsellingitems #retailmagic </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7280453558766472481" rel="alternate"/>
+    <published>2023-09-19T08:38:17+00:00</published>
   </entry>
 </feed>
