@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-09-19T08:38:17+00:00</updated>
+  <updated>2023-09-20T14:15:54+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7273133471218863393</id>
-    <title>De aanhouder wint! Blijf hard werken en zie hoe dingen goed komen. 😌💪 #rylee #expectationvsreality #hardwerken #rijkworden </title>
-    <updated>2023-08-30T15:12:33+00:00</updated>
-    <content>De aanhouder wint! Blijf hard werken en zie hoe dingen goed komen. 😌💪 #rylee #expectationvsreality #hardwerken #rijkworden </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7273133471218863393" rel="alternate"/>
-    <published>2023-08-30T15:12:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7273842054143298849</id>
     <title>Een concurrent die zich niet helemaal aan de regels houdt? 😮 Gebruik dan deze tips om het zo snel mogelijk op te lossen. 💪💙  #rylee #bolcom #ntd #concurrent  #onlinebusiness #onlinebusinesstips #verkooptips </title>
@@ -91,5 +83,13 @@
     <content>Wij delen onze top 3 producten die je niet mag missen! 🎯 #rylee #bolcomtips #bestsellingitems #retailmagic </content>
     <link href="https://tiktok.com/@rylee.nl/video/7280453558766472481" rel="alternate"/>
     <published>2023-09-19T08:38:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7280911657541455136</id>
+    <title>Wil je je verkoop naar een hoger niveau tillen? Ontdek mijn tips en strategieën voor maximale verkoopgroei! 💼🥇#rylee #verkoopmaximaliseren #verkooptips #bolcomtips #onlineretail </title>
+    <updated>2023-09-20T14:15:54+00:00</updated>
+    <content>Wil je je verkoop naar een hoger niveau tillen? Ontdek mijn tips en strategieën voor maximale verkoopgroei! 💼🥇#rylee #verkoopmaximaliseren #verkooptips #bolcomtips #onlineretail </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7280911657541455136" rel="alternate"/>
+    <published>2023-09-20T14:15:54+00:00</published>
   </entry>
 </feed>
