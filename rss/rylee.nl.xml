@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-09-20T14:15:54+00:00</updated>
+  <updated>2023-09-22T12:05:50+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7273842054143298849</id>
-    <title>Een concurrent die zich niet helemaal aan de regels houdt? 😮 Gebruik dan deze tips om het zo snel mogelijk op te lossen. 💪💙  #rylee #bolcom #ntd #concurrent  #onlinebusiness #onlinebusinesstips #verkooptips </title>
-    <updated>2023-09-01T13:02:14+00:00</updated>
-    <content>Een concurrent die zich niet helemaal aan de regels houdt? 😮 Gebruik dan deze tips om het zo snel mogelijk op te lossen. 💪💙  #rylee #bolcom #ntd #concurrent  #onlinebusiness #onlinebusinesstips #verkooptips </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7273842054143298849" rel="alternate"/>
-    <published>2023-09-01T13:02:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7275004576191778080</id>
     <title>Niewsgierig naar de bestsellers op bol.com? 🏆 Met de Rylee-tool hebben we de TOP 3 producten voor je op een rijtje kunnen gezet!  #rylee #bolcomtrends #trendingproducten #winstgevend #onlinebusiness #ecommercetrends </title>
@@ -91,5 +83,13 @@
     <content>Wil je je verkoop naar een hoger niveau tillen? Ontdek mijn tips en strategieën voor maximale verkoopgroei! 💼🥇#rylee #verkoopmaximaliseren #verkooptips #bolcomtips #onlineretail </content>
     <link href="https://tiktok.com/@rylee.nl/video/7280911657541455136" rel="alternate"/>
     <published>2023-09-20T14:15:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7281620305955540257</id>
+    <title>AVG en juridische valkuilen? Rylee heeft de antwoorden! Leer de knepen van het vak en bescherm je onderneming. 🔒🧐 #rylee #juridisch #valkuil #wettelijk #tips </title>
+    <updated>2023-09-22T12:05:50+00:00</updated>
+    <content>AVG en juridische valkuilen? Rylee heeft de antwoorden! Leer de knepen van het vak en bescherm je onderneming. 🔒🧐 #rylee #juridisch #valkuil #wettelijk #tips </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7281620305955540257" rel="alternate"/>
+    <published>2023-09-22T12:05:50+00:00</published>
   </entry>
 </feed>
