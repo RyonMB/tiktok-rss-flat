@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-09-26T11:50:08+00:00</updated>
+  <updated>2023-09-26T12:39:42+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7276475718605802784</id>
-    <title>Laat bol.com voor de logistiek zorgen, van productie tot klanten! 📦 Check snel deze video voor de voordelen. 😌 #rylee #logistiek #bolcom #onlinebusiness #ecommerce #verkooptip #onlinewinkel </title>
-    <updated>2023-09-08T15:22:11+00:00</updated>
-    <content>Laat bol.com voor de logistiek zorgen, van productie tot klanten! 📦 Check snel deze video voor de voordelen. 😌 #rylee #logistiek #bolcom #onlinebusiness #ecommerce #verkooptip #onlinewinkel </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7276475718605802784" rel="alternate"/>
-    <published>2023-09-08T15:22:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7277956498964352289</id>
     <title>Op zoek naar de geheime formule voor online verkoopsucces? Rylee heeft het antwoord! 📊 #rylee #onlineverkoop #bolcom #ecommerce #ondernemers #verkopenopbol #ecommercetips </title>
@@ -91,5 +83,13 @@
     <content>Voldoe jij aan de servicenormen van Bol.com?  #rylee #bolverkopen #boltips #servicenormen </content>
     <link href="https://tiktok.com/@rylee.nl/video/7283100599829220640" rel="alternate"/>
     <published>2023-09-26T11:50:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7283113389734284576</id>
+    <title>Leer alles over Rylee’s geavanceerde filteropties! Ontdek hoe je je zoekopdrachten kunt verfijnen en de kracht van precisie kunt benutten. 🚀💼 #rylee #bolcom #onlineverkoop #filter #ecommerce #ondernemers #verkopenopbol #ecommercetips </title>
+    <updated>2023-09-26T12:39:42+00:00</updated>
+    <content>Leer alles over Rylee’s geavanceerde filteropties! Ontdek hoe je je zoekopdrachten kunt verfijnen en de kracht van precisie kunt benutten. 🚀💼 #rylee #bolcom #onlineverkoop #filter #ecommerce #ondernemers #verkopenopbol #ecommercetips </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7283113389734284576" rel="alternate"/>
+    <published>2023-09-26T12:39:42+00:00</published>
   </entry>
 </feed>
