@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-09-29T01:29:14+00:00</updated>
+  <updated>2023-09-29T07:56:18+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7279026822740823328</id>
-    <title>Top tips: Slechte reviews zijn kansen in vermomming! Ontdek in deze video hoe je dat kunt doen. 💪 #rylee #slecht #reviews #bolcomtips</title>
-    <updated>2023-09-16T12:00:00+00:00</updated>
-    <content>Top tips: Slechte reviews zijn kansen in vermomming! Ontdek in deze video hoe je dat kunt doen. 💪 #rylee #slecht #reviews #bolcomtips</content>
-    <link href="https://tiktok.com/@rylee.nl/video/7279026822740823328" rel="alternate"/>
-    <published>2023-09-16T12:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7279712045660917025</id>
     <title>Top tips: Slechte reviews zijn kansen in vermomming! Ontdek in deze video hoe je dat kunt doen. 💪 #rylee #slecht #reviews #bolcomtips </title>
@@ -91,5 +83,13 @@
     <content>Gemiddelde salarissen van banen die je juist niet zo vaak tegenkomt. #rylee #bolverkopen #salaris #geldverdienen </content>
     <link href="https://tiktok.com/@rylee.nl/video/7284053620360891681" rel="alternate"/>
     <published>2023-09-29T01:29:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7284153561540300064</id>
+    <title>Bekijk deze video en leer hoe je exact vindt wat je zoekt en de concurrentie voor blijft. 🚀🔑 #rylee #keywords #zoekwoorden #zoekwoordenboek #onlineverkoop #bolcom #concurrentie</title>
+    <updated>2023-09-29T07:56:18+00:00</updated>
+    <content>Bekijk deze video en leer hoe je exact vindt wat je zoekt en de concurrentie voor blijft. 🚀🔑 #rylee #keywords #zoekwoorden #zoekwoordenboek #onlineverkoop #bolcom #concurrentie</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7284153561540300064" rel="alternate"/>
+    <published>2023-09-29T07:56:18+00:00</published>
   </entry>
 </feed>
