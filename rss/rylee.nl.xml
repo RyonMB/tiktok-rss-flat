@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-10-02T14:34:52+00:00</updated>
+  <updated>2023-10-03T11:38:27+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7280453558766472481</id>
-    <title>Wij delen onze top 3 producten die je niet mag missen! 🎯 #rylee #bolcomtips #bestsellingitems #retailmagic </title>
-    <updated>2023-09-19T08:38:17+00:00</updated>
-    <content>Wij delen onze top 3 producten die je niet mag missen! 🎯 #rylee #bolcomtips #bestsellingitems #retailmagic </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7280453558766472481" rel="alternate"/>
-    <published>2023-09-19T08:38:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7280911657541455136</id>
     <title>Wil je je verkoop naar een hoger niveau tillen? Ontdek mijn tips en strategieën voor maximale verkoopgroei! 💼🥇#rylee #verkoopmaximaliseren #verkooptips #bolcomtips #onlineretail </title>
@@ -91,5 +83,13 @@
     <content>Is er teveel concurrentie op Bol.com?  #rylee #bolverkopen #boltips #concurrentie </content>
     <link href="https://tiktok.com/@rylee.nl/video/7285369561338154273" rel="alternate"/>
     <published>2023-10-02T14:34:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7285695093766475041</id>
+    <title>Ontdek de 3 geheimen van een winning product!  #rylee #winningproduct #ecommercesecrets </title>
+    <updated>2023-10-03T11:38:27+00:00</updated>
+    <content>Ontdek de 3 geheimen van een winning product!  #rylee #winningproduct #ecommercesecrets </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7285695093766475041" rel="alternate"/>
+    <published>2023-10-03T11:38:27+00:00</published>
   </entry>
 </feed>
