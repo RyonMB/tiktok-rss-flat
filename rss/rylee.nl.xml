@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-10-20T07:35:21+00:00</updated>
+  <updated>2023-10-23T15:02:40+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7286123465583742241</id>
-    <title>Gemiddelde salarissen van banen die je juist niet zo vaak tegenkomt. #rylee #bolverkopen #salaris #geldverdienen </title>
-    <updated>2023-10-04T15:20:24+00:00</updated>
-    <content>Gemiddelde salarissen van banen die je juist niet zo vaak tegenkomt. #rylee #bolverkopen #salaris #geldverdienen </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7286123465583742241" rel="alternate"/>
-    <published>2023-10-04T15:20:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7286748646387846433</id>
     <title>Boost je merk met deze social media hacks!  #rylee #socialmedia #promotie #hacks </title>
@@ -91,5 +83,13 @@
     <content>Laat Rylee het zware werk doen! 😌  #rylee #salesboost #listijg #emails #ai </content>
     <link href="https://tiktok.com/@rylee.nl/video/7291940978074733856" rel="alternate"/>
     <published>2023-10-20T07:35:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7293169524747095328</id>
+    <title>Misschien wel je volgende bestseller. 😜 #rylee #bestseller #product #ugcwins </title>
+    <updated>2023-10-23T15:02:40+00:00</updated>
+    <content>Misschien wel je volgende bestseller. 😜 #rylee #bestseller #product #ugcwins </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7293169524747095328" rel="alternate"/>
+    <published>2023-10-23T15:02:40+00:00</published>
   </entry>
 </feed>
