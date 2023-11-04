@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-10-26T07:22:03+00:00</updated>
+  <updated>2023-10-24T07:19:12+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7287889196390321440</id>
+    <title>Van analytics tot productbeheer, Rylee heeft het allemaal! 😎 #rylee#dashboard#tool#software#bolcom</title>
+    <updated>2023-10-09T09:32:24+00:00</updated>
+    <content>Van analytics tot productbeheer, Rylee heeft het allemaal! 😎 #rylee#dashboard#tool#software#bolcom</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7287889196390321440" rel="alternate"/>
+    <published>2023-10-09T09:32:24+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7287977867634314529</id>
     <title>Onze nieuwe website is live en we vieren het groot. 😄 #rylee #winactie #giveaway </title>
@@ -83,13 +91,5 @@
     <content>How to shoot pro Bol.com photos with iPhone &amp; AI. 😉🤳 #rylee #photography #product #listing #tutorials #ecommercebusiness </content>
     <link href="https://tiktok.com/@rylee.nl/video/7293421172870368544" rel="alternate"/>
     <published>2023-10-24T07:19:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7294164072247987489</id>
-    <title>Top 5 producten die je kunt verkopen. 🥇 #rylee #winningproduct #ugc </title>
-    <updated>2023-10-26T07:22:03+00:00</updated>
-    <content>Top 5 producten die je kunt verkopen. 🥇 #rylee #winningproduct #ugc </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7294164072247987489" rel="alternate"/>
-    <published>2023-10-26T07:22:03+00:00</published>
   </entry>
 </feed>
