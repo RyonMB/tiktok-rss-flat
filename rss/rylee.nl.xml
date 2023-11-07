@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-11-06T19:21:20+00:00</updated>
+  <updated>2023-11-07T10:18:59+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7289141449784872225</id>
-    <title>Gemiddelde salarissen van banen die je juist niet zo vaak tegenkomt. #rylee #bolverkopen #salaris #geldverdienen </title>
-    <updated>2023-10-12T18:31:41+00:00</updated>
-    <content>Gemiddelde salarissen van banen die je juist niet zo vaak tegenkomt. #rylee #bolverkopen #salaris #geldverdienen </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7289141449784872225" rel="alternate"/>
-    <published>2023-10-12T18:31:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7289339543201910049</id>
     <title>Dit zijn de gemiddelde salarissen als je in de IT branche werkt.  Bron: werkzoekenden.nl  #rylee #salaris #knowyourworth #itjobs #gemiddeldesalarissen </title>
@@ -91,5 +83,13 @@
     <content>De 3 beste herfstproducten om te verkopen op Bol.com #rylee #bolverkopen #boltips #herfstproducten </content>
     <link href="https://tiktok.com/@rylee.nl/video/7298431333599038752" rel="alternate"/>
     <published>2023-11-06T19:21:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7298662680439655712</id>
+    <title>No Title</title>
+    <updated>2023-11-07T10:18:59+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7298662680439655712" rel="alternate"/>
+    <published>2023-11-07T10:18:59+00:00</published>
   </entry>
 </feed>
