@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-11-07T15:12:35+00:00</updated>
+  <updated>2023-11-08T16:32:56+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7291225318927486240</id>
-    <title>Klantbetrokkenheid = Meer verkoop. 📈 #rylee #community #klantbetrokkenheid #engagement</title>
-    <updated>2023-10-18T09:18:11+00:00</updated>
-    <content>Klantbetrokkenheid = Meer verkoop. 📈 #rylee #community #klantbetrokkenheid #engagement</content>
-    <link href="https://tiktok.com/@rylee.nl/video/7291225318927486240" rel="alternate"/>
-    <published>2023-10-18T09:18:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7291626862600555809</id>
     <title>Ontdek de tools die je bol.com winkel naar het volgende niveau tillen! 🚀 #rylee #research #bolcomtools </title>
@@ -91,5 +83,13 @@
     <content>Hoe onderscheid je je op Bol.com #rylee #bolverkopen #boltips #onderscheiden </content>
     <link href="https://tiktok.com/@rylee.nl/video/7298738353468476704" rel="alternate"/>
     <published>2023-11-07T15:12:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7299130153442069792</id>
+    <title>Zo verzamel je meer product reviews op Bol.com  #rylee #bolverkopen #boltips #reviews </title>
+    <updated>2023-11-08T16:32:56+00:00</updated>
+    <content>Zo verzamel je meer product reviews op Bol.com  #rylee #bolverkopen #boltips #reviews </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7299130153442069792" rel="alternate"/>
+    <published>2023-11-08T16:32:56+00:00</published>
   </entry>
 </feed>
