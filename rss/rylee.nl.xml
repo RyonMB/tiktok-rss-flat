@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-11-10T13:49:55+00:00</updated>
+  <updated>2023-11-10T19:02:00+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7291940978074733856</id>
-    <title>Laat Rylee het zware werk doen! 😌  #rylee #salesboost #listijg #emails #ai </title>
-    <updated>2023-10-20T07:35:21+00:00</updated>
-    <content>Laat Rylee het zware werk doen! 😌  #rylee #salesboost #listijg #emails #ai </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7291940978074733856" rel="alternate"/>
-    <published>2023-10-20T07:35:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7293169524747095328</id>
     <title>Misschien wel je volgende bestseller. 😜 #rylee #bestseller #product #ugcwins </title>
@@ -91,5 +83,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@rylee.nl/video/7299830312366787873" rel="alternate"/>
     <published>2023-11-10T13:49:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7299910729589706017</id>
+    <title>Gebruik negatieve reviews in jouw voordeel  #rylee #bolverkopen #boltips #reviews </title>
+    <updated>2023-11-10T19:02:00+00:00</updated>
+    <content>Gebruik negatieve reviews in jouw voordeel  #rylee #bolverkopen #boltips #reviews </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7299910729589706017" rel="alternate"/>
+    <published>2023-11-10T19:02:00+00:00</published>
   </entry>
 </feed>
