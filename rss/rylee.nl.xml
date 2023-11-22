@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-11-21T15:14:21+00:00</updated>
+  <updated>2023-11-22T16:15:09.474868+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,84 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7298738353468476704</id>
-    <title>Hoe onderscheid je je op Bol.com #rylee #bolverkopen #boltips #onderscheiden </title>
-    <updated>2023-11-07T15:12:35+00:00</updated>
-    <content>Hoe onderscheid je je op Bol.com #rylee #bolverkopen #boltips #onderscheiden </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7298738353468476704" rel="alternate"/>
-    <published>2023-11-07T15:12:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7299130153442069792</id>
-    <title>Zo verzamel je meer product reviews op Bol.com  #rylee #bolverkopen #boltips #reviews </title>
-    <updated>2023-11-08T16:32:56+00:00</updated>
-    <content>Zo verzamel je meer product reviews op Bol.com  #rylee #bolverkopen #boltips #reviews </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7299130153442069792" rel="alternate"/>
-    <published>2023-11-08T16:32:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7299830312366787873</id>
-    <title>No Title</title>
-    <updated>2023-11-10T13:49:55+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@rylee.nl/video/7299830312366787873" rel="alternate"/>
-    <published>2023-11-10T13:49:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7299910729589706017</id>
-    <title>Gebruik negatieve reviews in jouw voordeel  #rylee #bolverkopen #boltips #reviews </title>
-    <updated>2023-11-10T19:02:00+00:00</updated>
-    <content>Gebruik negatieve reviews in jouw voordeel  #rylee #bolverkopen #boltips #reviews </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7299910729589706017" rel="alternate"/>
-    <published>2023-11-10T19:02:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7300294176715935009</id>
-    <title>Kennen jouw klanten je goed?  #rylee #bolverkopen #boltips #branding </title>
-    <updated>2023-11-11T19:49:58+00:00</updated>
-    <content>Kennen jouw klanten je goed?  #rylee #bolverkopen #boltips #branding </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7300294176715935009" rel="alternate"/>
-    <published>2023-11-11T19:49:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7300976675846737184</id>
-    <title>Waarom is branding belangrijk op Bol.com?  #rylee #bolverkopen #boltips #branding </title>
-    <updated>2023-11-13T15:58:24+00:00</updated>
-    <content>Waarom is branding belangrijk op Bol.com?  #rylee #bolverkopen #boltips #branding </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7300976675846737184" rel="alternate"/>
-    <published>2023-11-13T15:58:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7301698674743069985</id>
-    <title>Is het makkelijk om te verkopen op bol.com  #rylee #bolverkopen #boltips #ecommerce </title>
-    <updated>2023-11-15T14:40:09+00:00</updated>
-    <content>Is het makkelijk om te verkopen op bol.com  #rylee #bolverkopen #boltips #ecommerce </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7301698674743069985" rel="alternate"/>
-    <published>2023-11-15T14:40:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7301991460704963872</id>
-    <title>No Title</title>
-    <updated>2023-11-16T09:36:23+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@rylee.nl/video/7301991460704963872" rel="alternate"/>
-    <published>2023-11-16T09:36:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7302885192300023072</id>
-    <title>Hoe registreer je je als verkoper op Bol.com  #rylee #bolverkopen #boltips #registratie </title>
-    <updated>2023-11-18T19:24:25+00:00</updated>
-    <content>Hoe registreer je je als verkoper op Bol.com  #rylee #bolverkopen #boltips #registratie </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7302885192300023072" rel="alternate"/>
-    <published>2023-11-18T19:24:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7303933994368797984</id>
-    <title>No Title</title>
-    <updated>2023-11-21T15:14:21+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@rylee.nl/video/7303933994368797984" rel="alternate"/>
-    <published>2023-11-21T15:14:21+00:00</published>
-  </entry>
 </feed>
