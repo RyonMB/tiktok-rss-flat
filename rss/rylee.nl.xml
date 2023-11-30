@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-11-29T14:00:00+00:00</updated>
+  <updated>2023-11-30T14:00:00+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7302885192300023072</id>
-    <title>Hoe registreer je je als verkoper op Bol.com  #rylee #bolverkopen #boltips #registratie </title>
-    <updated>2023-11-18T19:24:25+00:00</updated>
-    <content>Hoe registreer je je als verkoper op Bol.com  #rylee #bolverkopen #boltips #registratie </content>
-    <link href="https://tiktok.com/@rylee.nl/video/7302885192300023072" rel="alternate"/>
-    <published>2023-11-18T19:24:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7303933994368797984</id>
     <title>No Title</title>
@@ -91,5 +83,13 @@
     <content>Waarom is het registreren van je merk bij BOIP zo belangrijk?  Ontdek waarom het beschermen van je merk bij BOIP essentieel is voor jouw succes!  Volg ons nu voor meer handige tips en tricks!  #rylee #bolcom #boip #merkregistratie #merk #succes #beschermen #tips #ondernemen</content>
     <link href="https://tiktok.com/@rylee.nl/video/7306558971018628384" rel="alternate"/>
     <published>2023-11-29T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7306559797309099296</id>
+    <title>3 tips om effectiever te werken! Welke programma's gebruik jij om effectiever te werken? Reageer in the comments! #rylee #bolcom #verkopenopbol #effectiefwerken #ondernemer #onlineondernemen #tips #ecommerce</title>
+    <updated>2023-11-30T14:00:00+00:00</updated>
+    <content>3 tips om effectiever te werken! Welke programma's gebruik jij om effectiever te werken? Reageer in the comments! #rylee #bolcom #verkopenopbol #effectiefwerken #ondernemer #onlineondernemen #tips #ecommerce</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7306559797309099296" rel="alternate"/>
+    <published>2023-11-30T14:00:00+00:00</published>
   </entry>
 </feed>
