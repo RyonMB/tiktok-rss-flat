@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-11-22T16:15:09.474868+00:00</updated>
+  <updated>2023-11-29T14:00:00+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,4 +12,84 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7302885192300023072</id>
+    <title>Hoe registreer je je als verkoper op Bol.com  #rylee #bolverkopen #boltips #registratie </title>
+    <updated>2023-11-18T19:24:25+00:00</updated>
+    <content>Hoe registreer je je als verkoper op Bol.com  #rylee #bolverkopen #boltips #registratie </content>
+    <link href="https://tiktok.com/@rylee.nl/video/7302885192300023072" rel="alternate"/>
+    <published>2023-11-18T19:24:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7303933994368797984</id>
+    <title>No Title</title>
+    <updated>2023-11-21T15:14:21+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7303933994368797984" rel="alternate"/>
+    <published>2023-11-21T15:14:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7304265742772423968</id>
+    <title>No Title</title>
+    <updated>2023-11-22T12:41:46+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7304265742772423968" rel="alternate"/>
+    <published>2023-11-22T12:41:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7304638013202631968</id>
+    <title>Te veel of te weinig voorraad kan je winst beïnvloeden... #rylee #winst #voorraad #bolcom</title>
+    <updated>2023-11-23T12:46:26+00:00</updated>
+    <content>Te veel of te weinig voorraad kan je winst beïnvloeden... #rylee #winst #voorraad #bolcom</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7304638013202631968" rel="alternate"/>
+    <published>2023-11-23T12:46:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7304768325337287968</id>
+    <title>In de wereld van ecommerce is merkindentiteit essentieel om op te vallen... 🌎 #ondernemen #onlineondernemen #ecommerce #merk #rylee #bolcom #ondernemerschap #tips</title>
+    <updated>2023-11-24T09:00:00+00:00</updated>
+    <content>In de wereld van ecommerce is merkindentiteit essentieel om op te vallen... 🌎 #ondernemen #onlineondernemen #ecommerce #merk #rylee #bolcom #ondernemerschap #tips</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7304768325337287968" rel="alternate"/>
+    <published>2023-11-24T09:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7304769272864165152</id>
+    <title>Het schrijven van effectieve productbeschrijvingen is een uitdaging... ✍🏻 #rylee #productbeschrijving #schrijven #bolcom #ecommerce #uitdaging #ondernemen #producten</title>
+    <updated>2023-11-25T07:30:00+00:00</updated>
+    <content>Het schrijven van effectieve productbeschrijvingen is een uitdaging... ✍🏻 #rylee #productbeschrijving #schrijven #bolcom #ecommerce #uitdaging #ondernemen #producten</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7304769272864165152" rel="alternate"/>
+    <published>2023-11-25T07:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7304769926340922656</id>
+    <title>Niet flexibel zijn als ondernemer kan problemen opleveren... 🤯 #rylee #flexibel #ecommerce #producten #ondernemen #problemen #onlineondernemen #flexibiliteit #ondernemer</title>
+    <updated>2023-11-26T09:00:00+00:00</updated>
+    <content>Niet flexibel zijn als ondernemer kan problemen opleveren... 🤯 #rylee #flexibel #ecommerce #producten #ondernemen #problemen #onlineondernemen #flexibiliteit #ondernemer</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7304769926340922656" rel="alternate"/>
+    <published>2023-11-26T09:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7306134720386059553</id>
+    <title>Wat is het verschil tussen een Private Label en een White label? Ontdek het nu in deze video!  #rylee #bolcom #privatelabel #whitelabel #verkopen #producten #software #verkopenopbol #ondernemen #onlineondernemen</title>
+    <updated>2023-11-27T13:34:29+00:00</updated>
+    <content>Wat is het verschil tussen een Private Label en een White label? Ontdek het nu in deze video!  #rylee #bolcom #privatelabel #whitelabel #verkopen #producten #software #verkopenopbol #ondernemen #onlineondernemen</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7306134720386059553" rel="alternate"/>
+    <published>2023-11-27T13:34:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7306557325656018208</id>
+    <title>Wat is CE marketing en waarvoor gebruik je het? 🚀 Ben je benieuwd naar hoe CE-marketing jouw bedrijf kan laten groeien?  Klik op het hartje, deel deze video en volg ons voor meer interessante inzichten en praktische tips! #rylee #bolcom #verkopenopbol #ce</title>
+    <updated>2023-11-28T16:54:14+00:00</updated>
+    <content>Wat is CE marketing en waarvoor gebruik je het? 🚀 Ben je benieuwd naar hoe CE-marketing jouw bedrijf kan laten groeien?  Klik op het hartje, deel deze video en volg ons voor meer interessante inzichten en praktische tips! #rylee #bolcom #verkopenopbol #cemarketing #uitleg #verkopen #producten #ondernemer #onlineondernemen</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7306557325656018208" rel="alternate"/>
+    <published>2023-11-28T16:54:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7306558971018628384</id>
+    <title>Waarom is het registreren van je merk bij BOIP zo belangrijk?  Ontdek waarom het beschermen van je merk bij BOIP essentieel is voor jouw succes!  Volg ons nu voor meer handige tips en tricks!  #rylee #bolcom #boip #merkregistratie #merk #succes #bescherme</title>
+    <updated>2023-11-29T14:00:00+00:00</updated>
+    <content>Waarom is het registreren van je merk bij BOIP zo belangrijk?  Ontdek waarom het beschermen van je merk bij BOIP essentieel is voor jouw succes!  Volg ons nu voor meer handige tips en tricks!  #rylee #bolcom #boip #merkregistratie #merk #succes #beschermen #tips #ondernemen</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7306558971018628384" rel="alternate"/>
+    <published>2023-11-29T14:00:00+00:00</published>
+  </entry>
 </feed>
