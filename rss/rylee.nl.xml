@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-12-02T12:00:00+00:00</updated>
+  <updated>2023-12-03T12:00:00+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7304638013202631968</id>
-    <title>Te veel of te weinig voorraad kan je winst beïnvloeden... #rylee #winst #voorraad #bolcom</title>
-    <updated>2023-11-23T12:46:26+00:00</updated>
-    <content>Te veel of te weinig voorraad kan je winst beïnvloeden... #rylee #winst #voorraad #bolcom</content>
-    <link href="https://tiktok.com/@rylee.nl/video/7304638013202631968" rel="alternate"/>
-    <published>2023-11-23T12:46:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7304768325337287968</id>
     <title>In de wereld van ecommerce is merkindentiteit essentieel om op te vallen... 🌎 #ondernemen #onlineondernemen #ecommerce #merk #rylee #bolcom #ondernemerschap #tips</title>
@@ -91,5 +83,13 @@
     <content>Wat zijn evergreen producten en waarom is het slim om deze te verkopen?  Ontdek de kracht van evergreen producten voor jouw online business in deze video! Volg ons voor meer handige tips!  #rylee #ecommerce #verkopenopbol #bolcom #software #evergreen #producten #verkopen #tips #bedrijf #ondernemen</content>
     <link href="https://tiktok.com/@rylee.nl/video/7306561852648017184" rel="alternate"/>
     <published>2023-12-02T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7306562860832853281</id>
+    <title>Hoe kun je nu het beste communiceren met Chinese leveranciers?  Bekijk deze video voor de beste communicatie tips! #rylee #ecommerce #tips #bolcom #verkopenopbol #leveranciers #communicatie #ondernemen #onlinebedrijf</title>
+    <updated>2023-12-03T12:00:00+00:00</updated>
+    <content>Hoe kun je nu het beste communiceren met Chinese leveranciers?  Bekijk deze video voor de beste communicatie tips! #rylee #ecommerce #tips #bolcom #verkopenopbol #leveranciers #communicatie #ondernemen #onlinebedrijf</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7306562860832853281" rel="alternate"/>
+    <published>2023-12-03T12:00:00+00:00</published>
   </entry>
 </feed>
