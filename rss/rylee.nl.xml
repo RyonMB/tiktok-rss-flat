@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-12-03T12:00:00+00:00</updated>
+  <updated>2023-12-04T17:16:51+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7304768325337287968</id>
-    <title>In de wereld van ecommerce is merkindentiteit essentieel om op te vallen... 🌎 #ondernemen #onlineondernemen #ecommerce #merk #rylee #bolcom #ondernemerschap #tips</title>
-    <updated>2023-11-24T09:00:00+00:00</updated>
-    <content>In de wereld van ecommerce is merkindentiteit essentieel om op te vallen... 🌎 #ondernemen #onlineondernemen #ecommerce #merk #rylee #bolcom #ondernemerschap #tips</content>
-    <link href="https://tiktok.com/@rylee.nl/video/7304768325337287968" rel="alternate"/>
-    <published>2023-11-24T09:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7304769272864165152</id>
     <title>Het schrijven van effectieve productbeschrijvingen is een uitdaging... ✍🏻 #rylee #productbeschrijving #schrijven #bolcom #ecommerce #uitdaging #ondernemen #producten</title>
@@ -91,5 +83,13 @@
     <content>Hoe kun je nu het beste communiceren met Chinese leveranciers?  Bekijk deze video voor de beste communicatie tips! #rylee #ecommerce #tips #bolcom #verkopenopbol #leveranciers #communicatie #ondernemen #onlinebedrijf</content>
     <link href="https://tiktok.com/@rylee.nl/video/7306562860832853281" rel="alternate"/>
     <published>2023-12-03T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7308789651328732449</id>
+    <title>Hoe krijg je een goede mindset als ondernemer? Bekijk deze tiktok voor 5 praktische tips die je direct kunt toepassen om jouw ondernemersmindset te versterken! #bolcom #rylee #verkopen #tips #ondernemen #ecommerce #mindset #software</title>
+    <updated>2023-12-04T17:16:51+00:00</updated>
+    <content>Hoe krijg je een goede mindset als ondernemer? Bekijk deze tiktok voor 5 praktische tips die je direct kunt toepassen om jouw ondernemersmindset te versterken! #bolcom #rylee #verkopen #tips #ondernemen #ecommerce #mindset #software</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7308789651328732449" rel="alternate"/>
+    <published>2023-12-04T17:16:51+00:00</published>
   </entry>
 </feed>
