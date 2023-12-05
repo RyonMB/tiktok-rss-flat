@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rylee.nl</id>
   <title>rylee.nl TikTok</title>
-  <updated>2023-12-04T17:16:51+00:00</updated>
+  <updated>2023-12-05T13:16:45+00:00</updated>
   <author>
     <name>Rylee B.V.</name>
     <email>support@rylee.nl</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ryonmb.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from rylee.nl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rylee.nl/video/7304769272864165152</id>
-    <title>Het schrijven van effectieve productbeschrijvingen is een uitdaging... ✍🏻 #rylee #productbeschrijving #schrijven #bolcom #ecommerce #uitdaging #ondernemen #producten</title>
-    <updated>2023-11-25T07:30:00+00:00</updated>
-    <content>Het schrijven van effectieve productbeschrijvingen is een uitdaging... ✍🏻 #rylee #productbeschrijving #schrijven #bolcom #ecommerce #uitdaging #ondernemen #producten</content>
-    <link href="https://tiktok.com/@rylee.nl/video/7304769272864165152" rel="alternate"/>
-    <published>2023-11-25T07:30:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rylee.nl/video/7304769926340922656</id>
     <title>Niet flexibel zijn als ondernemer kan problemen opleveren... 🤯 #rylee #flexibel #ecommerce #producten #ondernemen #problemen #onlineondernemen #flexibiliteit #ondernemer</title>
@@ -91,5 +83,13 @@
     <content>Hoe krijg je een goede mindset als ondernemer? Bekijk deze tiktok voor 5 praktische tips die je direct kunt toepassen om jouw ondernemersmindset te versterken! #bolcom #rylee #verkopen #tips #ondernemen #ecommerce #mindset #software</content>
     <link href="https://tiktok.com/@rylee.nl/video/7308789651328732449" rel="alternate"/>
     <published>2023-12-04T17:16:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rylee.nl/video/7309098854673141025</id>
+    <title>Ben jij klaar om de piekmaanden op bol volledig te benutten? Bekijk nu deze tiktok voor tips om er alles uit te halen! #rylee #bolcom #verkopenopbol #ecommerce #feestdagen #tips #onlineondernemen #ondernemer #software</title>
+    <updated>2023-12-05T13:16:45+00:00</updated>
+    <content>Ben jij klaar om de piekmaanden op bol volledig te benutten? Bekijk nu deze tiktok voor tips om er alles uit te halen! #rylee #bolcom #verkopenopbol #ecommerce #feestdagen #tips #onlineondernemen #ondernemer #software</content>
+    <link href="https://tiktok.com/@rylee.nl/video/7309098854673141025" rel="alternate"/>
+    <published>2023-12-05T13:16:45+00:00</published>
   </entry>
 </feed>
